@@ -1,0 +1,13 @@
+rules:
+DIRECT
+  - DOMAIN-SUFFIX,dnsany.com,DIRECT
+  - DOMAIN-SUFFIX,cmvideo.cn,DIRECT
+  - DOMAIN-SUFFIX,chinamobile.com,DIRECT
+  - DOMAIN-SUFFIX,mobaibox.com,DIRECT
+  - DOMAIN-SUFFIX,gitv.tv,DIRECT
+  - DOMAIN-SUFFIX,cctv.cn,DIRECT
+  - DOMAIN-SUFFIX,yangshipin.cn,DIRECT
+  - IP-CIDR,183.206.0.0/15,DIRECT,no-resolve
+  - IP-CIDR,58.208.0.0/12,DIRECT,no-resolve
+  - IP-CIDR,223.5.5.5/32,DIRECT,no-resolve
+  - DOMAIN,beesport.livednow.com,DIRECT
