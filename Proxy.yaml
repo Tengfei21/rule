@@ -9,3 +9,4 @@ Proxy
   - DOMAIN-SUFFIX,youtube.com,Proxy
   - DOMAIN-SUFFIX,mytvsuper.com,Proxy
   - DOMAIN-SUFFIX,thetvapp.to,Proxy
+  - DOMAIN-SUFFIX,cdn.hinet.net,Proxy
