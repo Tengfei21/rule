@@ -27,7 +27,9 @@ Proxy
   - DOMAIN-SUFFIX,FamilyDS.net,Proxy
   - DOMAIN-SUFFIX,QuickConnect.to,Proxy
   - DOMAIN-SUFFIX,FamilyDS.org,Proxy
+  - DOMAIN-SUFFIX,account.synology.com,Proxy
   - DOMAIN,synology.me,Proxy
+  - DOMAIN,account.synology.com,Proxy
   - DOMAIN,DiskStation.me,Proxy
   - DOMAIN,i234.me,Proxy
   - DOMAIN,myDS.me,Proxy
@@ -41,6 +43,7 @@ Proxy
   - DOMAINDS,FamilyDS.com,Proxy
   - DOMAINDS,FamilyDS.net,Proxy
   - DOMAINDS,FamilyDS.org,Proxy
+  - DOMAINDS,account.synology.com,Proxy
   - DOMAIN-KEYWORD,synology,Proxy
   - DOMAIN-KEYWORD,DiskStation,Proxy
   - DOMAIN-KEYWORD,i234,Proxy
@@ -49,5 +52,5 @@ Proxy
   - DOMAIN-KEYWORD,DSmyNAS,Proxy
   - DOMAIN-KEYWORD,FamilyDS,Proxy
   - DOMAIN-KEYWORD,QuickConnect,Proxy
-
+  - DOMAIN-KEYWORD,account.synology.com,Proxy
 
