@@ -10,3 +10,44 @@ Proxy
   - DOMAIN-SUFFIX,mytvsuper.com,Proxy
   - DOMAIN-SUFFIX,thetvapp.to,Proxy
   - DOMAIN-SUFFIX,cdn.hinet.net,Proxy
+  - DOMAIN-SUFFIX,synology.cn,Proxy
+  - DOMAIN-SUFFIX,synology.com,Proxy
+  - DOMAIN-SUFFIX,synology.me,Proxy
+  - DOMAIN-SUFFIX,QuickConnect.to,Proxy
+  - DOMAIN-SUFFIX,DiskStation.me,Proxy
+  - DOMAIN-SUFFIX,i234.me,Proxy
+  - DOMAIN-SUFFIX,myDS.me,Proxy
+  - DOMAIN-SUFFIX,DSCloud.biz,Proxy
+  - DOMAIN-SUFFIX,DSCloud.me,Proxy
+  - DOMAIN-SUFFIX,DSCloud.mobi,Proxy
+  - DOMAIN-SUFFIX,DSmyNAS.com,Proxy
+  - DOMAIN-SUFFIX,DSmyNAS.net,Proxy
+  - DOMAIN-SUFFIX,DSmyNAS.org,Proxy
+  - DOMAIN-SUFFIX,FamilyDS.com,Proxy
+  - DOMAIN-SUFFIX,FamilyDS.net,Proxy
+  - DOMAIN-SUFFIX,QuickConnect.to,Proxy
+  - DOMAIN-SUFFIX,FamilyDS.org,Proxy
+  - DOMAIN,synology.me,Proxy
+  - DOMAIN,DiskStation.me,Proxy
+  - DOMAIN,i234.me,Proxy
+  - DOMAIN,myDS.me,Proxy
+  - DOMAIN,DiskStation,Proxy
+  - DOMAIN,DSCloud.biz,Proxy
+  - DOMAIN,DSCloud.me,Proxy
+  - DOMAIN,DSCloud.mobi,Proxy
+  - DOMAINDS,myNAS.com,Proxy
+  - DOMAINDS,DSmyNAS.net,Proxy
+  - DOMAINDS,DSmyNAS.org,Proxy
+  - DOMAINDS,FamilyDS.com,Proxy
+  - DOMAINDS,FamilyDS.net,Proxy
+  - DOMAINDS,FamilyDS.org,Proxy
+  - DOMAIN-KEYWORD,synology,Proxy
+  - DOMAIN-KEYWORD,DiskStation,Proxy
+  - DOMAIN-KEYWORD,i234,Proxy
+  - DOMAIN-KEYWORD,myDS,Proxy
+  - DOMAIN-KEYWORD,DSCloud,Proxy
+  - DOMAIN-KEYWORD,DSmyNAS,Proxy
+  - DOMAIN-KEYWORD,FamilyDS,Proxy
+  - DOMAIN-KEYWORD,QuickConnect,Proxy
+
+
