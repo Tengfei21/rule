@@ -1,6 +1,5 @@
 rules:
 Proxy
-  - DOMAIN-SUFFIX,198.16.100.186,Proxy
   - DOMAIN-SUFFIX,livednow.com,Proxy
   - DOMAIN-SUFFIX,orz-7.com,Proxy
   - DOMAIN-SUFFIX,4gtv.tv,Proxy
@@ -30,7 +29,6 @@ Proxy
   - DOMAIN-SUFFIX,FamilyDS.org,Proxy
   - DOMAIN-SUFFIX,account.synology.com,Proxy
   - DOMAIN-SUFFIX,account.synology.cn,Proxy
-  - DOMAIN,198.16.100.186,Proxy
   - DOMAIN,synology.me,Proxy
   - DOMAIN,account.synology.com,Proxy
   - DOMAIN,account.synology.cn,Proxy
@@ -41,7 +39,6 @@ Proxy
   - DOMAIN,DSCloud.biz,Proxy
   - DOMAIN,DSCloud.me,Proxy
   - DOMAIN,DSCloud.mobi,Proxy
-  - DOMAINDS,198.16.100.186,Proxy
   - DOMAINDS,myNAS.com,Proxy
   - DOMAINDS,DSmyNAS.net,Proxy
   - DOMAINDS,DSmyNAS.org,Proxy
@@ -50,7 +47,6 @@ Proxy
   - DOMAINDS,FamilyDS.org,Proxy
   - DOMAINDS,account.synology.com,Proxy
   - DOMAINDS,account.synology.cn,Proxy
-  - DOMAIN-KEYWORD,198.16.100.186,Proxy
   - DOMAIN-KEYWORD,synology,Proxy
   - DOMAIN-KEYWORD,DiskStation,Proxy
   - DOMAIN-KEYWORD,i234,Proxy
@@ -61,4 +57,7 @@ Proxy
   - DOMAIN-KEYWORD,QuickConnect,Proxy
   - DOMAIN-KEYWORD,account.synology.com,Proxy
   - DOMAIN-KEYWORD,account.synology.cn,Proxy
-
+  - IP-CIDR,108.181.0.0/19,Proxy,resolve
+  - IP-CIDR,108.181.0.0/19,Proxy,resolve
+  - IP-CIDR,108.181.0.0/19,Proxy
+  - IP-CIDR,108.181.0.0/19,Proxy
