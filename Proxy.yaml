@@ -57,7 +57,7 @@ Proxy
   - DOMAIN-KEYWORD,QuickConnect,Proxy
   - DOMAIN-KEYWORD,account.synology.com,Proxy
   - DOMAIN-KEYWORD,account.synology.cn,Proxy
-  - IP-CIDR,108.181.0.0/19,Proxy,resolve
-  - IP-CIDR,108.181.0.0/19,Proxy,resolve
-  - IP-CIDR,108.181.0.0/19,Proxy
-  - IP-CIDR,108.181.0.0/19,Proxy
+  - IP-CIDR,198.16.100.0/23,Proxy,resolve
+  - IP-CIDR,198.16.100.0/23,Proxy,resolve
+  - IP-CIDR,198.16.100.0/23,Proxy
+  - IP-CIDR,198.16.100.0/23,Proxy
