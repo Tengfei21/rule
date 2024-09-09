@@ -57,7 +57,7 @@ Proxy
   - DOMAIN-KEYWORD,QuickConnect,Proxy
   - DOMAIN-KEYWORD,account.synology.com,Proxy
   - DOMAIN-KEYWORD,account.synology.cn,Proxy
-  - IP-CIDR,198.16.100.0/23,Proxy,resolve
-  - IP-CIDR,198.16.100.0/23,Proxy,resolve
-  - IP-CIDR,198.16.100.0/23,Proxy
-  - IP-CIDR,198.16.100.0/23,Proxy
+  - DOMAIN-SUFFIX,php.17186.eu.org,Proxy
+  - DOMAIN,php.17186.eu.org,Proxy
+  - DOMAINDS,php.17186.eu.org,Proxy
+  - DOMAIN-KEYWORD,php.17186.eu.org,Proxy
