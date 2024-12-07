@@ -25,9 +25,36 @@ DIRECT
   - IP-CIDR,108.181.20.159,DIRECT
   - DOMAIN-SUFFIX,v.hwadzan.info,DIRECT
   - DOMAIN-SUFFIX,js1.hwadzan.info,DIRECT
+  - DOMAIN-SUFFIX,tw3.hwadzan.info,DIRECT
+  - DOMAIN-SUFFIX,tw2.hwadzan.info,DIRECT
+  - DOMAIN-SUFFIX,sg1.hwadzan.info,DIRECT
+  - DOMAIN-SUFFIX,hk1.hwadzan.info,DIRECT
+  - DOMAIN-SUFFIX,hk2.hwadzan.info,DIRECT
+  - DOMAIN-SUFFIX,de1.hwadzan.info,DIRECT
+  - DOMAIN-SUFFIX,rsd.amtb.tw,DIRECT
+  - DOMAIN-SUFFIX,www1.amtb.tw,DIRECT
+  - DOMAIN-SUFFIX,tv.amtb.tw,DIRECT
+  - DOMAIN-SUFFIX,live.amtb.tw,DIRECT
+  - DOMAIN-SUFFIX,ft.amtb.tw,DIRECT
+  - DOMAIN-SUFFIX,hitv.amtb.tw,DIRECT
+  - DOMAIN-SUFFIX,ftp1.amtb.tw,DIRECT
+  - DOMAIN-SUFFIX,amtb.tw,DIRECT
+  - DOMAIN-SUFFIX,www.amtb.tw,DIRECT
+  - DOMAIN-SUFFIX,player.amtb.de,DIRECT
+  - DOMAIN-SUFFIX,sg1.amtb.de,DIRECT
+  - DOMAIN-SUFFIX,vod.amtb.de,DIRECT
+  - DOMAIN-SUFFIX,tw1.amtb.de,DIRECT
+  - DOMAIN-SUFFIX,tw2.amtb.de,DIRECT
+  - DOMAIN-SUFFIX,tw3.amtb.de,DIRECT
+  - DOMAIN-SUFFIX,hk1.amtb.de,DIRECT
+  - DOMAIN-SUFFIX,hk2.amtb.de,DIRECT
+  - DOMAIN-SUFFIX,www.amtb.de,DIRECT
+  - DOMAIN-SUFFIX,amtb.de,DIRECT
+  - DOMAIN-SUFFIX,ftp.amtb.de,DIRECT
   - DOMAIN-SUFFIX,amtb.tw,DIRECT
   - DOMAIN-SUFFIX,work.hwadzan.org,DIRECT
   - DOMAIN-SUFFIX,hwadzan.tv,DIRECT
+  - DOMAIN-SUFFIX,hwadzan.org,DIRECT
   - DOMAIN-SUFFIX,xuxingmin.com,DIRECT
   - DOMAIN-SUFFIX,www.amtbcollege.com,DIRECT
   - IP-CIDR,210.65.47.53,DIRECT
