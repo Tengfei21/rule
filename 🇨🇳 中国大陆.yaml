@@ -1,4 +1,7 @@
 rules:
 Proxy
   - IP-CIDR,183.206.0.0/15,proxy
+  - IP-CIDR,223.110.235.132,proxy
+  - IP-CIDR,223.110.236.132,Proxy
   - DOMAIN-SUFFIX,mobaibox.com,proxy
+  - DOMAIN-SUFFIX,ott.mobaibox.com,proxy
