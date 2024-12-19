@@ -1,2 +1,2 @@
-  - IP-CIDR,183.206.0.0/15,DIRECT,🇨🇳 中国大陆
-  - DOMAIN-SUFFIX,mobaibox.com,🇨🇳 中国大陆
+  - IP-CIDR,183.206.0.0/15,proxy
+  - DOMAIN-SUFFIX,mobaibox.com,proxy
