@@ -46,7 +46,7 @@ Proxy
   - DOMAIN,rthkradio4-live.akamaized.net,🎥 Disney+
   - DOMAIN,live.akamaized.net,🎥 Disney+
   - DOMAIN,akamaized.net,🎥 Disney+
-  - DOMAIN,rthkt,🎥 Disney+
+  - DOMAIN-SUFFIX,rthkt,🎥 Disney+
   - DOMAIN,hoy.tv,🎥 Disney+
   - DOMAIN,hoytv-live-stream.hoy.tv,🎥 Disney+
   - DOMAIN,gvt1.com,🎥 Disney+
