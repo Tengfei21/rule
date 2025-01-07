@@ -44,16 +44,11 @@ Proxy
   - DOMAIN,rthkradio3-live.akamaized.net,🎥 Disney+
   - DOMAIN,rthkradio5-live.akamaized.net,🎥 Disney+
   - DOMAIN,rthkradio4-live.akamaized.net,🎥 Disney+
-  - DOMAIN,rthkradio5-live.akamaized.net,🎥 Disney+
   - DOMAIN,live.akamaized.net,🎥 Disney+
   - DOMAIN,akamaized.net,🎥 Disney+
-  - geosite,rthkt,🎥 Disney+
-  - geosite,hoy.tv,🎥 Disney+
-  - geosite,hoytv-live-stream.hoy.tv,🎥 Disney+
-  - geosite,nowe.com,🎥 Disney+
-  - geosite,viu.tv,🎥 Disney+
-  - plaintext,nowe.com,🎥 Disney+
-  - plaintext,viu.tv,🎥 Disney+
+  - DOMAIN,rthkt,🎥 Disney+
+  - DOMAIN,hoy.tv,🎥 Disney+
+  - DOMAIN,hoytv-live-stream.hoy.tv,🎥 Disney+
   - DOMAIN,gvt1.com,🎥 Disney+
   - DOMAIN,r2---sn-oguelney.gvt1.com,🎥 Disney+
   - DOMAIN,r3---sn-oguesn6y.gvt1.com,🎥 Disney+
