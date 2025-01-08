@@ -1,4 +1,4 @@
-7rules:
+rules:
 Proxy
   - DOMAIN-SUFFIX,mytvsuper.com,🎥 Disney+
   - DOMAIN-SUFFIX,viu.com,🎥 Disney+
