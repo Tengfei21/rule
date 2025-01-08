@@ -21,17 +21,17 @@ DIRECT
   - IP-CIDR,173.208.176.178,DIRECT
   - IP-CIDR,108.181.32.169,DIRECT
   - IP-CIDR,108.181.20.159,DIRECT
-  - DOMAIN-SUFFIX,v.hwadzan.info,DIRECT
-  - DOMAIN-SUFFIX,js1.hwadzan.info,DIRECT
-  - DOMAIN-SUFFIX,tw3.hwadzan.info,DIRECT
-  - DOMAIN-SUFFIX,tw2.hwadzan.info,DIRECT
+  - DOMAIN-SUFFIX,v.hwadzan.info,61.218.10.10,DIRECT
+  - DOMAIN-SUFFIX,js1.hwadzan.info,61.222.129.194,DIRECT
+  - DOMAIN-SUFFIX,tw3.hwadzan.info,59.120.146.244,DIRECT
+  - DOMAIN-SUFFIX,tw2.hwadzan.info,61.218.10.10,DIRECT
   - DOMAIN-SUFFIX,tracker.hwadzan.info,DIRECT
-  - DOMAIN-SUFFIX,vod.hwadzan.info,DIRECT
-  - DOMAIN-SUFFIX,tw5.hwadzan.info,DIRECT
-  - DOMAIN-SUFFIX,sg1.hwadzan.info,DIRECT
-  - DOMAIN-SUFFIX,hk1.hwadzan.info,DIRECT
-  - DOMAIN-SUFFIX,hk2.hwadzan.info,DIRECT
-  - DOMAIN-SUFFIX,de1.hwadzan.info,DIRECT
+  - DOMAIN-SUFFIX,vod.hwadzan.info,61.218.10.10,DIRECT
+  - DOMAIN-SUFFIX,tw5.hwadzan.info,62.222.129.194,DIRECT
+  - DOMAIN-SUFFIX,sg1.hwadzan.info,4.194.242.142,DIRECT
+  - DOMAIN-SUFFIX,hk1.hwadzan.info,42.200.211.194,DIRECT
+  - DOMAIN-SUFFIX,hk2.hwadzan.info,61.93.225.146,DIRECT
+  - DOMAIN-SUFFIX,de1.hwadzan.info,89.163.161.134,DIRECT
   - DOMAIN-SUFFIX,rsd.amtb.tw,DIRECT
   - DOMAIN-SUFFIX,www1.amtb.tw,DIRECT
   - DOMAIN-SUFFIX,tv.amtb.tw,DIRECT
@@ -53,10 +53,10 @@ DIRECT
   - DOMAIN-SUFFIX,amtb.de,DIRECT
   - DOMAIN-SUFFIX,ftp.amtb.de,DIRECT
   - DOMAIN-SUFFIX,amtb.tw,DIRECT
-  - DOMAIN-SUFFIX,work.hwadzan.org,DIRECT
-  - DOMAIN-SUFFIX,www.hwadzan.com,DIRECT
-  - DOMAIN-SUFFIX,hwadzan.tv,DIRECT
-  - DOMAIN-SUFFIX,hwadzan.org,DIRECT
+  - DOMAIN-SUFFIX,work.hwadzan.org,61.218.10.10,DIRECT
+  - DOMAIN-SUFFIX,www.hwadzan.com,61.218.10.10,DIRECT
+  - DOMAIN-SUFFIX,hwadzan.tv,210.65.91.15,DIRECT
+  - DOMAIN-SUFFIX,hwadzan.org,61.218.10.10,DIRECT
   - DOMAIN-SUFFIX,xuxingmin.com,DIRECT
   - DOMAIN-SUFFIX,www.amtbcollege.com,DIRECT
   - IP-CIDR,210.65.47.53,DIRECT
