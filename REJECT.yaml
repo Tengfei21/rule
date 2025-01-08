@@ -1,6 +1,6 @@
 rules:
    IP-CIDR,203.66.65.46,reject
-   IP-CIDR.104.244.43.52.reject
+   IP-CIDR,104.244.43.52.reject
    IP-CIDR,108.160.162.98,reject
    IP-CIDR,108.160.162.104,reject
    IP-CIDR,210.209.84.142,reject
@@ -11,4 +11,6 @@ rules:
    IP-CIDR,128.242.250.148,reject
    IP-CIDR,157.240.12.35,reject
    IP-CIDR,174.36.196.242,reject
+   IP-CIDR6,2880:f10d:83:face:b00c:25be/64,reject
    IP-CIDR6,2880:f10d:83:face:b00c:25be,reject
+   
