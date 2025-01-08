@@ -11,4 +11,4 @@ rules:
    IP-CIDR,128.242.250.148,reject
    IP-CIDR,157.240.12.35,reject
    IP-CIDR,174.36.196.242,reject
-   IP-CIDR-6,2880:f10d:83:face:b00c:25be,reject
+   IP-CIDR6,2880:f10d:83:face:b00c:25be,reject
