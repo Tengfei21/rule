@@ -1,4 +1,4 @@
-rules:
+7rules:
 Proxy
   - DOMAIN-SUFFIX,mytvsuper.com,🎥 Disney+
   - DOMAIN-SUFFIX,viu.com,🎥 Disney+
@@ -52,3 +52,7 @@ Proxy
   - DOMAIN,gvt1.com,🎥 Disney+
   - DOMAIN,r2---sn-oguelney.gvt1.com,🎥 Disney+
   - DOMAIN,r3---sn-oguesn6y.gvt1.com,🎥 Disney+
+  - DOMAIN,tv.iill.top,🎥 Disney+
+  - DOMAIN-SUFFIX,tv.iill.top,🎥 Disney+
+  - DOMAIN-SUFFIX,yang-1989.eu.org,🎥 Disney+
+  - DOMAIN,yang-1989.eu.org,🎥 Disney+
