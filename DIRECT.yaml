@@ -25,7 +25,7 @@ DIRECT
   - DOMAIN-SUFFIX,js1.hwadzan.info,61.222.129.194,DIRECT
   - DOMAIN-SUFFIX,tw3.hwadzan.info,59.120.146.244,DIRECT
   - DOMAIN-SUFFIX,tw2.hwadzan.info,61.218.10.10,DIRECT
-  - DOMAIN-SUFFIX,tracker.hwadzan.info,DIRECT
+  - DOMAIN-SUFFIX,tracker.hwadzan.info,61.218.10.10,DIRECT
   - DOMAIN-SUFFIX,vod.hwadzan.info,61.218.10.10,DIRECT
   - DOMAIN-SUFFIX,tw5.hwadzan.info,62.222.129.194,DIRECT
   - DOMAIN-SUFFIX,sg1.hwadzan.info,4.194.242.142,DIRECT
