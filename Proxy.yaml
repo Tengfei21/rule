@@ -1,5 +1,9 @@
 rules:
 Proxy
+  - DOMAIN,tv.iill.top,Proxy
+  - DOMAIN-SUFFIX,tv.iill.top,Proxy
+  - DOMAIN-SUFFIX,yang-1989.eu.org,Proxy
+  - DOMAIN,yang-1989.eu.org,Proxy
   - DOMAIN-SUFFIX,livednow.com,Proxy
   - DOMAIN-SUFFIX,orz-7.com,Proxy
   - DOMAIN-SUFFIX,4gtv.tv,Proxy
