@@ -24,6 +24,7 @@ Proxy
   - DOMAIN,about.gitlab.com,Proxy
   - DOMAIN,gitlab.com,Proxy
   - DOMAIN-SUFFIX,gitlab.com,Proxy
+  - DOMAIN-KEYWORD,gitlab.com,Proxy
   - DOMAIN-KEYWORD,gitlab,Proxy
   - DOMAIN,aktv.top,Proxy
   - DOMAIN-SUFFIX,aktv.top,Proxy
