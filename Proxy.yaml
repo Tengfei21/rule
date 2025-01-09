@@ -1,5 +1,7 @@
 rules:
 Proxy
+  - DOMAIN,aktv.top,Proxy
+  - DOMAIN-SUFFIX,aktv.top,Proxy
   - DOMAIN,pixman.mytvsuper.com.mp,Proxy
   - DOMAIN,4gtv.mytvsuper.xyz,Proxy
   - DOMAIN,fourgtv,mytvsuper.com.mp,Proxy
