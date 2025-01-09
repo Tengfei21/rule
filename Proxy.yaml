@@ -1,5 +1,6 @@
 rules:
 Proxy
+  - DOMAIN,www.hwadzan.com,Proxy
   - DOMAIN,aktv.top,Proxy
   - DOMAIN-SUFFIX,aktv.top,Proxy
   - DOMAIN,pixman.mytvsuper.com.mp,Proxy
