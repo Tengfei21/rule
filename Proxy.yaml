@@ -4,7 +4,9 @@ Proxy
   - DOMAIN,4gtv.mytvsuper.xyz,Proxy
   - DOMAIN,fourgtv,mytvsuper.com.mp,Proxy
   - IP-CIDR,114.33.60.49,Proxy
+  - IP-CIDR,114.33.60.49,Proxy,resolve
   - IP-CIDR,209.141.54.128,Proxy
+  - IP-CIDR,209.141.54.125,Proxy,resolve
   - DOMAIN,iptv.vip-tptv.xyz,Proxy
   - DOMAIN,hg16888.vip,Proxy
   - DOMAIN,tv.iill.top,Proxy
