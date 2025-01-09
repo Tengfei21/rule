@@ -1,5 +1,7 @@
 rules:
 DIRECT
+  - DOMAIN,aktv.top,DIRECT
+  - DOMAIN-SUFFIX,aktv.top,DIRECT
   - DOMAIN-SUFFIX,dnsany.com,DIRECT
   - DOMAIN-SUFFIX,cmvideo.cn,DIRECT
   - DOMAIN-SUFFIX,chinamobile.com,DIRECT
