@@ -1,6 +1,30 @@
 rules:
 Proxy
   - DOMAIN,www.hwadzan.com,Proxy
+  - DOMAIN,support.gitlab.com,Proxy
+  - DOMAIN,federal-support.gitlab.com,Proxy
+  - DOMAIN,levelup.gitlab.com,Proxy
+  - DOMAIN,page.gitlab.com,Proxy
+  - DOMAIN,customers.gitlab.com,Proxy
+  - DOMAIN,chef.gitlab.com,Proxy
+  - DOMAIN,www.google.com.gitlab.com,Proxy
+  - DOMAIN,forum.gitlab.com,Proxy
+  - DOMAIN,status.gitlab.com,Proxy
+  - DOMAIN,version.gitlab.com,Proxy
+  - DOMAIN,ertyu.gitlab.com,Proxy
+  - DOMAIN,code.gitlab.com,Proxy
+  - DOMAIN,altssh.gitlab.com,Proxy
+  - DOMAIN,registry.gitlab.com,Proxy
+  - DOMAIN,about.staging.gitlab.com,Proxy
+  - DOMAIN,doc.gitlab.com,Proxy
+  - DOMAIN,docs.gitlab.com,Proxy
+  - DOMAIN,staging.gitlab.com,Proxy
+  - DOMAIN,packages.gitlab.com,Proxy
+  - DOMAIN,www.gitlab.com,Proxy
+  - DOMAIN,about.gitlab.com,Proxy
+  - DOMAIN,gitlab.com,Proxy
+  - DOMAIN-SUFFIX,gitlab.com,Proxy
+  - DOMAIN-KEYWORD,gitlab,Proxy
   - DOMAIN,aktv.top,Proxy
   - DOMAIN-SUFFIX,aktv.top,Proxy
   - DOMAIN,pixman.mytvsuper.com.mp,Proxy
