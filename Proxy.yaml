@@ -1,5 +1,11 @@
 rules:
 Proxy
+  - DOMAIN-KEYWORD,openwrt.ai,Proxy
+  - DOMAIN-SUFFIX,openwrt.ai,Proxy
+  - DOMAIN,direct.openwrt.ai,Proxy
+  - DOMAIN,direct.openwrt.aiwww.openwrt.ai,Proxy
+  - DOMAIN,direct.openwrt.aiopenwrt.ai,Proxy
+  - DOMAIN,direct.openwrt.aidl.openwrt.ai,Proxy
   - DOMAIN,www.hwadzan.com,Proxy
   - DOMAIN,support.gitlab.com,Proxy
   - DOMAIN,federal-support.gitlab.com,Proxy
@@ -25,7 +31,6 @@ Proxy
   - DOMAIN,gitlab.com,Proxy
   - DOMAIN-SUFFIX,gitlab.com,Proxy
   - DOMAIN-KEYWORD,gitlab.com,Proxy
-  - DOMAIN-KEYWORD,gitlab,Proxy
   - DOMAIN,aktv.top,Proxy
   - DOMAIN-SUFFIX,aktv.top,Proxy
   - DOMAIN,pixman.mytvsuper.com.mp,Proxy
