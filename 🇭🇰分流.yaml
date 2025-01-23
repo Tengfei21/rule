@@ -1,5 +1,47 @@
 rules:
 Proxy
+  - DOMAIN,ndex.docker.io,🎥 Disney+
+  - DOMAIN,pingindex.docker.io,🎥 Disney+
+  - DOMAIN,egistry-1.docker.io,🎥 Disney+
+  - DOMAIN,registry-l.docker.io,🎥 Disney+
+  - DOMAIN,pingregistry-1.docker.io,🎥 Disney+
+  - DOMAIN,nslookupregistry-1.docker.io,🎥 Disney+
+  - DOMAIN,regisrty-1.docker.io,🎥 Disney+
+  - DOMAIN,notary.docker.io,🎥 Disney+
+  - DOMAIN,registry-2.docker.io,🎥 Disney+
+  - DOMAIN,registry-3.docker.io,🎥 Disney+
+  - DOMAIN,registry-x.docker.io,🎥 Disney+
+  - DOMAIN,cdn-registry-1.docker.io,🎥 Disney+
+  - DOMAIN,registry.docker.io,🎥 Disney+
+  - DOMAIN,www.docker.io,🎥 Disney+
+  - DOMAIN,register-1.docker.io,🎥 Disney+
+  - DOMAIN,hub.docker.io,🎥 Disney+
+  - DOMAIN,get.docker.io,🎥 Disney+
+  - DOMAIN,index.docker.io,🎥 Disney+
+  - DOMAIN,registry-1.docker.io,🎥 Disney+
+  - DOMAIN,auth.docker.io,🎥 Disney+
+  - DOMAIN,docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,ndex.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,pingindex.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,egistry-1.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,registry-l.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,pingregistry-1.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,nslookupregistry-1.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,regisrty-1.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,notary.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,registry-2.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,registry-3.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,registry-x.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,cdn-registry-1.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,registry.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,www.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,register-1.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,hub.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,get.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,index.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,registry-1.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,auth.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,docker.io,🎥 Disney+
   - DOMAIN,index.docker.io,🎥 Disney+
   - DOMAIN-SUFFIX,index.docker.io,🎥 Disney+
   - DOMAIN,registry-1.docker.io,🎥 Disney+
