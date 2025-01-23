@@ -1,5 +1,7 @@
 rules:
 Proxy
+  - DOMAIN,registry-1.docker.io,Proxy
+  - DOMAIN-SUFFIX,registry-1.docker.io,Proxy
   - DOMAIN-KEYWORD,docker.com,Proxy
   - DOMAIN-KEYWORD,docker,Proxy
   - DOMAIN,raw.docker.com,Proxy
