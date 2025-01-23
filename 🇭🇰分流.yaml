@@ -1,5 +1,7 @@
 rules:
 Proxy
+  - DOMAIN,index.docker.io,🎥 Disney+
+  - DOMAIN-SUFFIX,index.docker.io,🎥 Disney+
   - DOMAIN,registry-1.docker.io,🎥 Disney+
   - DOMAIN-SUFFIX,registry-1.docker.io,🎥 Disney+
   - DOMAIN,registry-1.docker.io,🎥 Disney+
