@@ -1,5 +1,83 @@
 rules:
 Proxy
+  - DOMAIN,raw.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,raw.docker.com,🎥 Disney+
+  - DOMAIN,dowlaod.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,dowlaod.docker.com,🎥 Disney+
+  - DOMAIN,app.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,app.docker.com,🎥 Disney+
+  - DOMAIN,dialingproduction.cloudflare.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,dialingproduction.cloudflare.docker.com,🎥 Disney+
+  - DOMAIN,habor.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,habor.docker.com,🎥 Disney+
+  - DOMAIN,hubor.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,hubor.docker.com,🎥 Disney+
+  - DOMAIN,ub.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,ub.docker.com,🎥 Disney+
+  - DOMAIN,hup.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,hup.docker.com,🎥 Disney+
+  - DOMAIN,down.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,down.docker.com,🎥 Disney+
+  - DOMAIN,cloudflare.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,cloudflare.docker.com,🎥 Disney+
+  - DOMAIN,doc.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,doc.docker.com,🎥 Disney+
+  - DOMAIN,hubgw.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,hubgw.docker.com,🎥 Disney+
+  - DOMAIN,api.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,api.docker.com,🎥 Disney+
+  - DOMAIN,registy.hub.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,registy.hub.docker.com,🎥 Disney+
+  - DOMAIN,test.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,test.docker.com,🎥 Disney+
+  - DOMAIN,hub-stage.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,hub-stage.docker.com,🎥 Disney+
+  - DOMAIN,pingregistry.hub.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,pingregistry.hub.docker.com,🎥 Disney+
+  - DOMAIN,www.hub.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,www.hub.docker.com,🎥 Disney+
+  - DOMAIN,register.hub.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,register.hub.docker.com,🎥 Disney+
+  - DOMAIN,login.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,login.docker.com,🎥 Disney+
+  - DOMAIN,download-stage.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,download-stage.docker.com,🎥 Disney+
+  - DOMAIN,forums.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,forums.docker.com,🎥 Disney+
+  - DOMAIN,desktop.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,desktop.docker.com,🎥 Disney+
+  - DOMAIN,registry.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,registry.docker.com,🎥 Disney+
+  - DOMAIN,discovery.hub.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,discovery.hub.docker.com,🎥 Disney+
+  - DOMAIN,trial.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,trial.docker.com,🎥 Disney+
+  - DOMAIN,id.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,id.docker.com,🎥 Disney+
+  - DOMAIN,production.cloudflare.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,production.cloudflare.docker.com,🎥 Disney+
+  - DOMAIN,download.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,download.docker.com,🎥 Disney+
+  - DOMAIN,cloud.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,cloud.docker.com,🎥 Disney+
+  - DOMAIN,get.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,get.docker.com,🎥 Disney+
+  - DOMAIN,downloads.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,downloads.docker.com,🎥 Disney+
+  - DOMAIN,store.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,store.docker.com,🎥 Disney+
+  - DOMAIN-registry.hub.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,registry.hub.docker.com,🎥 Disney+
+  - DOMAIN- docs.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX, docs.docker.com,🎥 Disney+
+  - DOMAIN- docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,docker.com,🎥 Disney+
+  - DOMAIN-www.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,www.docker.com,🎥 Disney+
+  - DOMAIN-hub.docker.com,🎥 Disney+
+  - DOMAIN-SUFFIX,hub.docker.com,🎥 Disney+
+  - DOMAIN-KEYWORD,docker.com,🎥 Disney+
+  - DOMAIN-KEYWORD,docker.com,🎥 Disney+
   - DOMAIN-SUFFIX,mytvsuper.com,🎥 Disney+
   - DOMAIN-SUFFIX,viu.com,🎥 Disney+
   - DOMAIN-SUFFIX,viu.now.com,🎥 Disney+
