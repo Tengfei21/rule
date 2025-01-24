@@ -116,13 +116,13 @@ Proxy
   - DOMAIN-SUFFIX,store.docker.com,🎥 Disney+
   - DOMAIN-registry.hub.docker.com,🎥 Disney+
   - DOMAIN-SUFFIX,registry.hub.docker.com,🎥 Disney+
-  - DOMAIN- docs.docker.com,🎥 Disney+
+  - DOMAIN,docs.docker.com,🎥 Disney+
   - DOMAIN-SUFFIX, docs.docker.com,🎥 Disney+
-  - DOMAIN- docker.com,🎥 Disney+
+  - DOMAIN,docker.com,🎥 Disney+
   - DOMAIN-SUFFIX,docker.com,🎥 Disney+
-  - DOMAIN-www.docker.com,🎥 Disney+
+  - DOMAIN,www.docker.com,🎥 Disney+
   - DOMAIN-SUFFIX,www.docker.com,🎥 Disney+
-  - DOMAIN-hub.docker.com,🎥 Disney+
+  - DOMAIN,hub.docker.com,🎥 Disney+
   - DOMAIN-SUFFIX,hub.docker.com,🎥 Disney+
   - DOMAIN-KEYWORD,docker.com,🎥 Disney+
   - DOMAIN-KEYWORD,docker.com,🎥 Disney+
