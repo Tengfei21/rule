@@ -1,7 +1,14 @@
 rules:
 Proxy
-  - IP-CIDR,183.206.0.0/15,proxy
-  - IP-CIDR,223.110.235.132,proxy
-  - IP-CIDR,223.110.236.132,Proxy
-  - DOMAIN-SUFFIX,mobaibox.com,proxy
-  - DOMAIN-SUFFIX,ott.mobaibox.com,proxy
+  - IP-CIDR,183.206.0.0/15,🇨🇳 中国大陆
+  - IP-CIDR,223.110.235.132,🇨🇳 中国大陆
+  - IP-CIDR,223.110.236.132,🇨🇳 中国大陆
+  - IP-CIDR,223.105.251.59,🇨🇳 中国大陆
+  - DOMAIN-SUFFIX,mobaibox.com,🇨🇳 中国大陆
+  - DOMAIN-SUFFIX,ott.mobaibox.com,🇨🇳 中国大陆
+  - DOMAIN-SUFFIX,mobaibox.com,🇨🇳 中国大陆
+  - DOMAIN-SUFFIX,tptvh.mobaibox.com,🇨🇳 中国大陆
+  - DOMAIN,mobaibox.com,🇨🇳 中国大陆
+  - DOMAIN,mobaibox.com,🇨🇳 中国大陆
+  - DOMAIN,ott.mobaibox.com,🇨🇳 中国大陆
+  - DOMAIN,tptvh.mobaibox.com,🇨🇳 中国大陆
