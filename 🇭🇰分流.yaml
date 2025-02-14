@@ -32,14 +32,6 @@ Proxy
   - DOMAIN-SUFFIX,sc2022.stream-link.org,🎥 Disney+
   - DOMAIN-SUFFIX,sc2021.stream-link.org,🎥 Disney+
   - DOMAIN-SUFFIX,sc2020.stream-link.org,🎥 Disney+
-  - DOMAIN-SUFFIX,www.hkdvb.com,🎥 Disney+
-  - DOMAIN-SUFFIX,edge3.hkdvb.com,🎥 Disney+
-  - DOMAIN-SUFFIX,edge1.hkdvb.com,🎥 Disney+
-  - DOMAIN-SUFFIX,edge2.hkdvb.com,🎥 Disney+
-  - DOMAIN-SUFFIX,live.hkdvb.com,🎥 Disney+
-  - DOMAIN-SUFFIX,cdn.hkdvb.com,🎥 Disney+
-  - DOMAIN-SUFFIX,h2.hkdvb.com,🎥 Disney+
-  - DOMAIN-SUFFIX,hkdvb.com,🎥 Disney+
   - DOMAIN,live-edge-01.stream-link.org,🎥 Disney+
   - DOMAIN,live-edge-02.stream-link.org,🎥 Disney+
   - DOMAIN,live-edge-03.stream-link.org,🎥 Disney+
@@ -72,18 +64,49 @@ Proxy
   - DOMAIN,sc2022.stream-link.org,🎥 Disney+
   - DOMAIN,sc2021.stream-link.org,🎥 Disney+
   - DOMAIN,sc2020.stream-link.org,🎥 Disney+
+  - DOMAIN-KEYWORD,stream-link,🎥 Disney+
+  - DOMAIN-KEYWORD,stream-link.org,🎥 Disney+
   - DOMAIN,www.hkdvb.com,🎥 Disney+
   - DOMAIN,edge3.hkdvb.com,🎥 Disney+
   - DOMAIN,edge1.hkdvb.com,🎥 Disney+
   - DOMAIN,edge2.hkdvb.com,🎥 Disney+
+  - DOMAIN,edge3.tvfree.sbs,🎥 Disney+
+  - DOMAIN,edge1.tvfree.sbs,🎥 Disney+
+  - DOMAIN,edge2.tvfree.sbs,🎥 Disney+
+  - DOMAIN,vod.hkdvb.com,🎥 Disney+
   - DOMAIN,live.hkdvb.com,🎥 Disney+
   - DOMAIN,cdn.hkdvb.com,🎥 Disney+
   - DOMAIN,h2.hkdvb.com,🎥 Disney+
   - DOMAIN,hkdvb.com,🎥 Disney+
+  - DOMAIN-SUFFIX,www.hkdvb.com,🎥 Disney+
+  - DOMAIN-SUFFIX,edge3.hkdvb.com,🎥 Disney+
+  - DOMAIN-SUFFIX,edge1.hkdvb.com,🎥 Disney+
+  - DOMAIN-SUFFIX,edge2.hkdvb.com,🎥 Disney+
+  - DOMAIN-SUFFIX,edge3.tvfree.sbs,🎥 Disney+
+  - DOMAIN-SUFFIX,edge1.tvfree.sbs,🎥 Disney+
+  - DOMAIN-SUFFIX,edge2.tvfree.sbs,🎥 Disney+
+  - DOMAIN-SUFFIX,live.hkdvb.com,🎥 Disney+
+  - DOMAIN-SUFFIX,vod.hkdvb.com,🎥 Disney+
+  - DOMAIN-SUFFIX,cdn.hkdvb.com,🎥 Disney+
+  - DOMAIN-SUFFIX,h2.hkdvb.com,🎥 Disney+
+  - DOMAIN-SUFFIX,hkdvb.com,🎥 Disney+
   - DOMAIN-KEYWORD,hkdvb,🎥 Disney+
-  - DOMAIN-KEYWORD,hkdvb.com,🎥 Disney+
-  - DOMAIN-KEYWORD,stream-link,🎥 Disney+
-  - DOMAIN-KEYWORD,stream-link.org,🎥 Disney+
+  - DOMAIN-KEYWORD,hkdvb.com,🎥 Disney+  
+  - DOMAIN-KEYWORD,vod.hkdvb.com,🎥 Disney+
+  - DOMAIN-KEYWORD,live.hkdvb.com,🎥 Disney+
+  - DOMAIN,tvfree.sbs,🎥 Disney+
+  - DOMAIN,vod.tvfree.sbs,🎥 Disney+
+  - DOMAIN,live.tvfree.sbs,🎥 Disney+
+  - DOMAIN,cdn.tvfree.sbs,🎥 Disney+
+  - DOMAIN,h2.tvfree.sbs,🎥 Disney+
+  - DOMAIN-SUFFIX,live.tvfree.sbs,🎥 Disney+
+  - DOMAIN-SUFFIX,vod.tvfree.sbs,🎥 Disney+
+  - DOMAIN-SUFFIX,cdn.tvfree.sbs,🎥 Disney+
+  - DOMAIN-SUFFIX,h2.tvfree.sbs,🎥 Disney+
+  - DOMAIN-SUFFIX,tvfree.sbs,🎥 Disney+
+  - DOMAIN-KEYWORD,tvfree.sbs,🎥 Disney+  
+  - DOMAIN-KEYWORD,vod.tvfree.sbs,🎥 Disney+
+  - DOMAIN-KEYWORD,live.tvfree.sbs,🎥 Disney+
   - DOMAIN,sg.global.market.xiaomi.com,🎥 Disney+
   - DOMAIN,sgp.lp.account.xiaomi.com,🎥 Disney+
   - DOMAIN,mipush.global.xiaomi.com,🎥 Disney+
