@@ -115,7 +115,7 @@ Proxy
   - DOMAIN,awssgp0-files.fds.api.xiaomi.com,🎥 Disney+
   - DOMAIN,fe.market.pt.xiaomi.com,🎥 Disney+
   - DOMAIN,ksyru0-fusion.fds.api.xiaomi.com,🎥 Disney+
-  - DOMAIN,🎥 Disney+.pt.xiaomi.com,🎥 Disney+
+  - DOMAIN,Disney+.pt.xiaomi.com,🎥 Disney+
   - DOMAIN,in-speech.ai.xiaomi.com,🎥 Disney+
   - DOMAIN,ru-speech.ai.xiaomi.com,🎥 Disney+
   - DOMAIN,sgp-speech.ai.xiaomi.com,🎥 Disney+
@@ -163,7 +163,7 @@ Proxy
   - DOMAIN-SUFFIX,awssgp0-files.fds.api.xiaomi.com,🎥 Disney+
   - DOMAIN-SUFFIX,fe.market.pt.xiaomi.com,🎥 Disney+
   - DOMAIN-SUFFIX,ksyru0-fusion.fds.api.xiaomi.com,🎥 Disney+
-  - DOMAIN-SUFFIX,🎥 Disney+.pt.xiaomi.com,🎥 Disney+
+  - DOMAIN-SUFFIX,Disney+.pt.xiaomi.com,🎥 Disney+
   - DOMAIN-SUFFIX,in-speech.ai.xiaomi.com,🎥 Disney+
   - DOMAIN-SUFFIX,ru-speech.ai.xiaomi.com,🎥 Disney+
   - DOMAIN-SUFFIX,sgp-speech.ai.xiaomi.com,🎥 Disney+
@@ -203,6 +203,10 @@ Proxy
   - DOMAIN-SUFFIX,sdkconfig.ad.intl.xiaomi.com,🎥 Disney+
   - DOMAIN-SUFFIX,test.ad.intl.xiaomi.com,🎥 Disney+
   - DOMAIN-SUFFIX,mirrors.pt.xiaomi.com,🎥 Disney+
+  - DOMAIN-KEYWORD,global.xiaomi.com,🎥 Disney+
+  - DOMAIN-KEYWORD,global.market.xiaomi.com,🎥 Disney+
+  - DOMAIN-KEYWORD,global.account.xiaomi.com,🎥 Disney+
+  - DOMAIN-KEYWORD,global,🎥 Disney+
   - DOMAIN,ndex.docker.io,🎥 Disney+
   - DOMAIN,pingindex.docker.io,🎥 Disney+
   - DOMAIN,egistry-1.docker.io,🎥 Disney+
