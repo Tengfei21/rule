@@ -1,5 +1,11 @@
 rules:
 Proxy
+  - DOMAIN-SUFFIX,www.freemyip.com,🎥 Disney+
+  - DOMAIN,www.freemyip.com,🎥 Disney+
+  - DOMAIN-SUFFIX,freemyip.com,🎥 Disney+
+  - DOMAIN,freemyip.com,🎥 Disney+
+  - DOMAIN-KEYWORD,freemyip,🎥 Disney+
+  - DOMAIN-KEYWORD,freemyip.com,🎥 Disney+
   - DOMAIN-SUFFIX,live-edge-01.stream-link.org,🎥 Disney+
   - DOMAIN-SUFFIX,live-edge-02.stream-link.org,🎥 Disney+
   - DOMAIN-SUFFIX,live-edge-03.stream-link.org,🎥 Disney+
