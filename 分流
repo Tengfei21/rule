@@ -1,0 +1,20 @@
+rules:
+  Proxy
+    - DOMAIN-SUFFIX,plex.tv,🎬 Netflix
+    - DOMAIN-SUFFIX,wurl.tv,🎬 Netflix
+    - DOMAIN-SUFFIX,c5ca4726.wurl.com,🎬 Netflix
+    - DOMAIN-SUFFIX,nfl.com,🎬 Netflix
+    - DOMAIN-SUFFIX,amagi.tv,🎬 Netflix
+    - DOMAIN-SUFFIX,d134uf9oicyuah.cloudfront.net,🎬 Netflix
+    - DOMAIN-SUFFIX,d34phq2iz6wvjc.cloudfront.net,🎬 Netflix
+    - DOMAIN-SUFFIX,d2nnjsokeogp9k.cloudfront.net,🎬 Netflix
+    - DOMAIN-SUFFIX,tubitv.com,🎬 Netflix
+    - DOMAIN-SUFFIX,aegis-cloudfront.tubi.video,🎬 Netflix
+    - DOMAIN-SUFFIX,tubi.video,🎬 Netflix
+    - DOMAIN-SUFFIX,tubi.io,🎬 Netflix
+    - DOMAIN-SUFFIX,tubi.io,🎬 Netflix
+    - DOMAIN-SUFFIX,youboranqs01.com,🎬 Netflix
+    - DOMAIN-SUFFIX,pluto.tv,🎬 Netflix
+    - DOMAIN-SUFFIX,plutotv.net,🎬 Netflix
+    - DOMAIN-SUFFIX,thetvapp.to,🎬 Netflix
+    - DOMAIN-SUFFIX,aegis-cloudfront-1.tubi.video,🎬 Netflix
