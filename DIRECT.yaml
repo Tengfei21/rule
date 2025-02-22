@@ -1,5 +1,7 @@
 rules:
 DIRECT
+  - DOMAIN-SUFFIX,wurl.com,DIRECT
+  - DOMAIN-SUFFIX,jmp2.uk,DIRECT
   - DOMAIN,itv.mytvsuper.xyz,DIRECT
   - DOMAIN,migu1.vip-tptv.xyz,DIRECT
   - DOMAIN,feiyang.vip-tptv.xyz,DIRECT
