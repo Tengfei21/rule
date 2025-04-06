@@ -1,6 +1,7 @@
-
-  - IP-CIDR,198.16.100.186,📺 Dazn
-  - IP-CIDR,50.7.92.106,📺 Dazn
-  - IP-CIDR,50.7.234.10,📺 Dazn
-  - IP-CIDR,50.7.220.170,📺 Dazn
-  - IP-CIDR,67.159.6.34,📺 Dazn
+rules:
+  Proxy
+    - IP-CIDR,198.16.100.186,📺 Dazn
+    - IP-CIDR,50.7.92.106,📺 Dazn
+    - IP-CIDR,50.7.234.10,📺 Dazn
+    - IP-CIDR,50.7.220.170,📺 Dazn
+    - IP-CIDR,67.159.6.34,📺 Dazn
