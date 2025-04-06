@@ -5,3 +5,8 @@ rules:
     - IP-CIDR,50.7.234.10,📺 Dazn
     - IP-CIDR,50.7.220.170,📺 Dazn
     - IP-CIDR,67.159.6.34,📺 Dazn
+    - IP-CIDR,50.7.220.0/23,📺 Dazn
+    - IP-CIDR,198.16.100.0/23,📺 Dazn
+    - IP-CIDR,50.7.234.0/23,📺 Dazn
+    - IP-CIDR,67.159.6.0/23,📺 Dazn
+    - IP-CIDR,50.7.92.0/22,📺 Dazn
