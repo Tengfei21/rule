@@ -1,5 +1,6 @@
 rules:
 DIRECT
+  - DOMAIN-KEYWORD,wogg,DIRECT
   - DOMAIN-SUFFIX,wurl.com,DIRECT
   - DOMAIN-SUFFIX,jmp2.uk,DIRECT
   - DOMAIN,itv.mytvsuper.xyz,DIRECT
