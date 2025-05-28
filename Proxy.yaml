@@ -1,5 +1,19 @@
 rules:
 Proxy
+- DOMAIN-SUFFIX,ofissaifreepc.akamaized.net,Proxy
+ - DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net,Proxy
+ - DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net,Proxy
+ - DOMAIN-SUFFIX,4gtvfreepc-cds.cdn.hinet.net,Proxy
+ - DOMAIN-SUFFIX,4gtvfree-mozai.4gtv.tv,Proxy
+ - DOMAIN-SUFFIX,ntd-tgc.cdn.hinet.net,Proxy
+ - DOMAIN-SUFFIX,api2.4gtv.tv,Proxy
+ - DOMAIN,ofissaifreepc.akamaized.net,Proxy
+ - DOMAIN,litvpc-hichannel.cdn.hinet.net,Proxy
+ - DOMAIN,4gtvfree-cds.cdn.hinet.net,Proxy
+ - DOMAIN,4gtvfreepc-cds.cdn.hinet.net,Proxy
+ - DOMAIN,4gtvfree-mozai.4gtv.tv,Proxy
+ - DOMAIN,ntd-tgc.cdn.hinet.net,Proxy
+ - DOMAIN,api2.4gtv.tv,Proxy
   - DOMAIN-KEYWORD,openwrt.ai,Proxy
   - DOMAIN-SUFFIX,openwrt.ai,Proxy
   - DOMAIN,direct.openwrt.ai,Proxy
