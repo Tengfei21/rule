@@ -1,5 +1,6 @@
 rules:
 Proxy
+-DOMAIN,4gtv.livednow.dpdns.org,Proxy
 - DOMAIN-SUFFIX,ofissaifreepc.akamaized.net,Proxy
  - DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net,Proxy
  - DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net,Proxy
