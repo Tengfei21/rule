@@ -3,9 +3,6 @@ rules:
  - DOMAIN,docker.livednow.dpdns.org,🎬 Netflix
  - DOMAIN,sport.pendy.dpdns.org,🎬 Netflix
  - DOMAIN,smart.pendy.dpdns.org,🎬 Netflix
- - DOMAIN-SUFFIX,docker.livednow.dpdns.org,🎬 Netflix
- - DOMAIN-SUFFIX,sport.pendy.dpdns.org,🎬 Netflix
- - DOMAIN-SUFFIX,smart.pendy.dpdns.org,🎬 Netflix
     - DOMAIN-SUFFIX,plex.tv,🎬 Netflix
     - DOMAIN-SUFFIX,wurl.tv,🎬 Netflix
     - DOMAIN-SUFFIX,c5ca4726.wurl.com,🎬 Netflix
