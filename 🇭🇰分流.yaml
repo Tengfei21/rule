@@ -1,5 +1,7 @@
 rules:
 Proxy
+  - DOMAIN,011v4.pendy.dpdns.org,🎥 Disney+
+  - DOMAIN,mysupertv.pendy.dpdns.org,🎥 Disney+
   - IP-CIDR,35.166.142.92,🎥 Disney+
   - DOMAIN-SUFFIX,www.freemyip.com,🎥 Disney+
   - DOMAIN,www.freemyip.com,🎥 Disney+
