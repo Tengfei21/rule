@@ -138,5 +138,4 @@ Proxy
  - DOMAIN-KEYWORD,wmviv.com,Proxy
  - DOMAIN-KEYWORD,cloud.wmviv.com,Proxy
  - DOMAIN-KEYWORD,www.wmviv.com,Proxy
- - GEOIP,CN,DIRECT
  - MATCH,Proxy
