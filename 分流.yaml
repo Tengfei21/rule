@@ -1,8 +1,8 @@
 rules:
   Proxy
- - DOMAIN,docker.livednow.dpdns.org,🎬 Netflix
- - DOMAIN,sport.pendy.dpdns.org,🎬 Netflix
- - DOMAIN,smart.pendy.dpdns.org,🎬 Netflix
+    - DOMAIN,docker.livednow.dpdns.org,🎬 Netflix
+    - DOMAIN,sport.pendy.dpdns.org,🎬 Netflix
+    - DOMAIN,smart.pendy.dpdns.org,🎬 Netflix
     - DOMAIN-SUFFIX,plex.tv,🎬 Netflix
     - DOMAIN-SUFFIX,wurl.tv,🎬 Netflix
     - DOMAIN-SUFFIX,c5ca4726.wurl.com,🎬 Netflix
@@ -21,3 +21,6 @@ rules:
     - DOMAIN-SUFFIX,plutotv.net,🎬 Netflix
     - DOMAIN-SUFFIX,thetvapp.to,🎬 Netflix
     - DOMAIN-SUFFIX,aegis-cloudfront-1.tubi.video,🎬 Netflix
+    - DOMAIN,iptv.cqshushu.com,🎬 Netflix
+    - DOMAIN-SUFFIX,iptv.cqshushu.com,🎬 Netflix
+    - DOMAINS,iptv.cqshushu.com,🎬 Netflix
