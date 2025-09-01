@@ -25,10 +25,10 @@ Proxy
  - DOMAIN,api2.4gtv.tv,Proxy
  - DOMAIN-KEYWORD,openwrt.ai,Proxy
  - DOMAIN-SUFFIX,openwrt.ai,Proxy
- - DOMAIN,direct.openwrt.ai,Proxy
- - DOMAIN,direct.openwrt.aiwww.openwrt.ai,Proxy
- - DOMAIN,direct.openwrt.aiopenwrt.ai,Proxy
- - DOMAIN,direct.openwrt.aidl.openwrt.ai,Proxy
+ - DOMAIN,Proxy.openwrt.ai,Proxy
+ - DOMAIN,Proxy.openwrt.aiwww.openwrt.ai,Proxy
+ - DOMAIN,Proxy.openwrt.aiopenwrt.ai,Proxy
+ - DOMAIN,Proxy.openwrt.aidl.openwrt.ai,Proxy
  - DOMAIN,www.hwadzan.com,Proxy
  - DOMAIN,support.gitlab.com,Proxy
  - DOMAIN,federal-support.gitlab.com,Proxy
@@ -142,4 +142,43 @@ Proxy
  - DOMAIN-KEYWORD,wmviv.com,Proxy
  - DOMAIN-KEYWORD,cloud.wmviv.com,Proxy
  - DOMAIN-KEYWORD,www.wmviv.com,Proxy
- - MATCH,Proxy
+  - DOMAIN,v.hwadzan.info,Proxy
+  - DOMAIN,js1.hwadzan.info,Proxy
+  - DOMAIN,tw3.hwadzan.info,Proxy
+  - DOMAIN,tw2.hwadzan.info,Proxy
+  - DOMAIN,tracker.hwadzan.info,Proxy
+  - DOMAIN,vod.hwadzan.info,Proxy
+  - DOMAIN,tw5.hwadzan.info,Proxy
+  - DOMAIN,sg1.hwadzan.info,Proxy
+  - DOMAIN,hk1.hwadzan.info,Proxy
+  - DOMAIN,hk2.hwadzan.infoProxy
+  - DOMAIN,de1.hwadzan.info,Proxy
+  - DOMAIN,rsd.amtb.tw,Proxy
+  - DOMAIN,www1.amtb.tw,Proxy
+  - DOMAIN,tv.amtb.tw,Proxy
+  - DOMAIN,live.amtb.tw,Proxy
+  - DOMAIN,ft.amtb.tw,Proxy
+  - DOMAIN,hitv.amtb.tw,Proxy
+  - DOMAIN,ftp1.amtb.tw,Proxy
+  - DOMAIN,amtb.tw,Proxy
+  - DOMAIN,www.amtb.tw,Proxy
+  - DOMAIN,player.amtb.de,Proxy
+  - DOMAIN,sg1.amtb.de,Proxy
+  - DOMAIN,vod.amtb.de,Proxy
+  - DOMAIN,tw1.amtb.de,Proxy
+  - DOMAIN,tw2.amtb.de,Proxy
+  - DOMAIN,tw3.amtb.de,Proxy
+  - DOMAIN,hk1.amtb.de,Proxy
+  - DOMAIN,hk2.amtb.de,Proxy
+  - DOMAIN,www.amtb.de,Proxy
+  - DOMAIN,amtb.de,Proxy
+  - DOMAIN,ftp.amtb.de,Proxy
+  - DOMAIN,amtb.tw,Proxy
+  - DOMAIN,work.hwadzan.org,Proxy
+  - DOMAIN,hwadzan.tv,Proxy
+  - DOMAIN,hwadzan.org,Proxy
+  - DOMAIN,xuxingmin.com,Proxy
+  - DOMAIN,www.amtbcollege.com,Proxy
+  - IP-CIDR,210.65.47.53,Proxy
+  - IP-CIDR,210.65.91.15,Proxy
+  - MATCH,Proxy
