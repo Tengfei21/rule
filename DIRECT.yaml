@@ -30,13 +30,34 @@ DIRECT
   - IP-CIDR,27.36.0.0/14,DIRECT,no-resolve
   - IP-CIDR,183.238.66.0/24,DIRECT,no-resolve
   - DOMAIN,beesport.livednow.com,DIRECT
-  - IP-CIDR,108.181.0.0/19,DIRECT,no-resolve
-  - IP-CIDR,173.208.128.0/17,DIRECT,no-resolve
-  - IP-CIDR,108.181.0.0/19,DIRECT
-  - IP-CIDR,173.208.128.0/17,DIRECT
-  - IP-CIDR,108.181.32.169,DIRECT,no-resolve
-  - IP-CIDR,108.181.20.159,DIRECT,no-resolve
-  - IP-CIDR,173.208.176.178,DIRECT,no-resolve
-  - IP-CIDR,173.208.176.178,DIRECT
-  - IP-CIDR,108.181.32.169,DIRECT
-  - IP-CIDR,108.181.20.159,DIRECT
+  - DOMAIN,js1.hwadzan.info,DIRECT
+  - DOMAIN,tw3.hwadzan.info,DIRECT
+  - DOMAIN,tw5.hwadzan.info,DIRECT
+  - DOMAIN,tw4.hwadzan.info,DIRECT
+  - DOMAIN,tw6.hwadzan.info,DIRECT
+  - DOMAIN,tw8.hwadzan.info,DIRECT
+  - DOMAIN,hk1.hwadzan.info,DIRECT
+  - DOMAIN,hk2.hwadzan.info,DIRECT
+  - DOMAIN,sg1.hwadzan.info,DIRECT
+  - DOMAIN,de1.hwadzan.info,DIRECT
+  - DOMAIN,vod.hwadzan.info,DIRECT
+  - DOMAIN,v.hwadzan.info,DIRECT
+  - DOMAIN,m.amtb.info,DIRECT
+  - DOMAIN,work.hwadzan.org,DIRECT
+  - DOMAIN,hwadzan.tv,DIRECT
+  - DOMAIN,hwadzan.org,DIRECT
+  - DOMAIN,tracker.hwadzan.info,DIRECT
+  - DOMAIN,amtb.de,DIRECT
+  - DOMAIN,www.amtb.de,DIRECT
+  - DOMAIN,ft.amtb.de,DIRECT
+  - DOMAIN,player.amtb.de,DIRECT
+  - DOMAIN,sg1.amtb.de,DIRECT
+  - DOMAIN,vod.amtb.de,DIRECT
+  - DOMAIN,tw1.amtb.de,DIRECT
+  - DOMAIN,tw2.amtb.de,DIRECT
+  - DOMAIN,tw3.amtb.de,DIRECT
+  - DOMAIN,hk1.amtb.de,DIRECT
+  - DOMAIN,hk2.amtb.de,DIRECT
+  - DOMAIN,ftp.amtb.de,DIRECT
+  - DOMAIN,hwadzan.info,DIRECT
+  - DOMAIN,amtbapi.hwadzan.info,DIRECT
