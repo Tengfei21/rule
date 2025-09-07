@@ -26,3 +26,13 @@ rules:
     - DOMAINS,iptv.cqshushu.com,🎬 Netflix
     - IP-CIDR,154.40.37.205,🎬 Netflix
     - IP-CIDR,156.255.90.193,🎬 Netflix
+    - IP-CIDR,108.181.0.0/19,🎬 Netflix,resolve
+    - IP-CIDR,173.208.128.0/17,🎬 Netflix,resolve
+    - IP-CIDR,108.181.0.0/19,🎬 Netflix
+    - IP-CIDR,173.208.128.0/17,🎬 Netflix
+    - IP-CIDR,108.181.32.169,🎬 Netflix,resolve
+    - IP-CIDR,108.181.20.159,🎬 Netflix,resolve
+    - IP-CIDR,173.208.176.178,🎬 Netflix,resolve
+    - IP-CIDR,173.208.176.178,🎬 Netflix
+    - IP-CIDR,108.181.32.169,🎬 Netflix
+    - IP-CIDR,108.181.20.159,🎬 Netflix
