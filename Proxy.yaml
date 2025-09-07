@@ -142,52 +142,72 @@ Proxy
  - DOMAIN-KEYWORD,wmviv.com,Proxy
  - DOMAIN-KEYWORD,cloud.wmviv.com,Proxy
  - DOMAIN-KEYWORD,www.wmviv.com,Proxy
- - DOMAIN-KEYWORD,hwadzan,Proxy
- - DOMAIN-KEYWORD,amtb,Proxy
- - DOMAIN,v.hwadzan.info,Proxy
- - DOMAIN,js1.hwadzan.info,Proxy
- - DOMAIN,tw3.hwadzan.info,Proxy
+ - DOMAIN-KEYWORD,hwadzan.con,Proxy
+ - DOMAIN-KEYWORD,xuxingmin.com,Proxy
+ - DOMAIN-KEYWORD,amtbcollege.com,Proxy
+ - DOMAIN-KEYWORD,xuxingmin,Proxy
+ - DOMAIN-KEYWORD,amtbcollege,Proxy
+ - DOMAIN-KEYWORD,amtb.tw,Proxy
+ - DOMAIN-KEYWORD,amtb.cn,Proxy
+ - DOMAIN,hwadzan.com,Proxy
  - DOMAIN,tw2.hwadzan.info,Proxy
- - DOMAIN,tracker.hwadzan.info,Proxy
- - DOMAIN,vod.hwadzan.info,Proxy
- - DOMAIN,tw5.hwadzan.info,Proxy
- - DOMAIN,sg1.hwadzan.info,Proxy
- - DOMAIN,hk1.hwadzan.info,Proxy
- - DOMAIN,hk2.hwadzan.infoProxy
- - DOMAIN,de1.hwadzan.info,Proxy
- - DOMAIN,rsd.amtb.tw,Proxy
+ - DOMAIN,amtb.tw,Proxy
+ - DOMAIN,www.amtb.tw,Proxy
  - DOMAIN,www1.amtb.tw,Proxy
- - DOMAIN,www1.amtb.cn,Proxy
  - DOMAIN,tv.amtb.tw,Proxy
  - DOMAIN,live.amtb.tw,Proxy
  - DOMAIN,ft.amtb.tw,Proxy
  - DOMAIN,hitv.amtb.tw,Proxy
  - DOMAIN,ftp1.amtb.tw,Proxy
+ - DOMAIN,rsd.amtb.tw,Proxy
+ - DOMAIN,player.amtb.tw,Proxy
+ - DOMAIN,sg1.amtb.tw,Proxy
+ - DOMAIN,vod.amtb.tw,Proxy
+ - DOMAIN,tw1.amtb.tw,Proxy
+ - DOMAIN,tw2.amtb.tw,Proxy
+ - DOMAIN,tw3.amtb.tw,Proxy
+ - DOMAIN,hk1.amtb.tw,Proxy
+ - DOMAIN,hk2.amtb.tw,Proxy
+ - DOMAIN,ftp.amtb.tw,Proxy
+ - DOMAIN,amtb.cn,Proxy
+ - DOMAIN,www.amtb.cn,Proxy
+ - DOMAIN,www1.amtb.cn,Proxy
+ - DOMAIN,tv.amtb.cn,Proxy
  - DOMAIN,live.amtb.cn,Proxy
  - DOMAIN,ft.amtb.cn,Proxy
  - DOMAIN,hitv.amtb.cn,Proxy
  - DOMAIN,ftp1.amtb.cn,Proxy
- - DOMAIN,amtb.tw,Proxy
- - DOMAIN,amtb.cn,Proxy
- - DOMAIN,www.amtb.cn,Proxy
- - DOMAIN,www.amtb.tw,Proxy
- - DOMAIN,player.amtb.de,Proxy
- - DOMAIN,sg1.amtb.de,Proxy
- - DOMAIN,vod.amtb.de,Proxy
- - DOMAIN,tw1.amtb.de,Proxy
- - DOMAIN,tw2.amtb.de,Proxy
- - DOMAIN,tw3.amtb.de,Proxy
- - DOMAIN,hk1.amtb.de,Proxy
- - DOMAIN,hk2.amtb.de,Proxy
- - DOMAIN,www.amtb.de,Proxy
- - DOMAIN,amtb.de,Proxy
- - DOMAIN,ftp.amtb.de,Proxy
- - DOMAIN,work.hwadzan.org,Proxy
- - DOMAIN,hwadzan.tv,Proxy
- - DOMAIN,hwadzan.com,Proxy
- - DOMAIN,hwadzan.org,Proxy
- - DOMAIN,xuxingmin.com,Proxy
+ - DOMAIN,rsd.amtb.cn,Proxy
+ - DOMAIN,player.amtb.cn,Proxy
+ - DOMAIN,sg1.amtb.cn,Proxy
+ - DOMAIN,vod.amtb.cn,Proxy
+ - DOMAIN,tw1.amtb.cn,Proxy
+ - DOMAIN,tw2.amtb.cn,Proxy
+ - DOMAIN,tw3.amtb.cn,Proxy
+ - DOMAIN,hk1.amtb.cn,Proxy
+ - DOMAIN,hk2.amtb.cn,Proxy
+ - DOMAIN,ftp.amtb.cn,Proxy
+ - DOMAIN,www1.amtb.de,Proxy
+ - DOMAIN,tv.amtb.de,Proxy
+ - DOMAIN,live.amtb.de,Proxy
+ - DOMAIN,hitv.amtb.de,Proxy
+ - DOMAIN,ftp1.amtb.de,Proxy
+ - DOMAIN,rsd.amtb.de,Proxy
  - DOMAIN,www.amtbcollege.com,Proxy
- - IP-CIDR,210.65.47.53,Proxy
- - IP-CIDR,210.65.91.15,Proxy
+ - DOMAIN,tw2.hwadzan.info,Proxy
+ - DOMAIN,js999.amtb.cn,Proxy
+ - DOMAIN,js5.amtb.cn,Proxy
+ - DOMAIN,js7.amtb.cn,Proxy
+ - DOMAIN,js8.amtb.cn,Proxy
+ - DOMAIN,js4.amtb.cn,Proxy
+ - DOMAIN,js6.amtb.cn,Proxy
+ - DOMAIN,js3.amtb.cn,Proxy
+ - DOMAIN,fabo.amtb.cn,Proxy
+ - DOMAIN,hk.amtb.cn,Proxy
+ - DOMAIN,s2.amtb.cn,Proxy
+ - DOMAIN,js1.amtb.cn,Proxy
+ - DOMAIN,ftp8.amtb.cn,Proxy
+ - DOMAIN,ftpa.amtb.cn,Proxy
+ - DOMAIN,ftp2.amtb.cn,Proxy
+ - DOMAIN,amtbapi.amtb.de,Proxy
  - MATCH,Proxy
