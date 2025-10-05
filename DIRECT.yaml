@@ -30,34 +30,45 @@ DIRECT
   - IP-CIDR,27.36.0.0/14,DIRECT,no-resolve
   - IP-CIDR,183.238.66.0/24,DIRECT,no-resolve
   - DOMAIN,beesport.livednow.com,DIRECT
-  - DOMAIN,js1.hwadzan.info,DIRECT
-  - DOMAIN,tw3.hwadzan.info,DIRECT
-  - DOMAIN,tw5.hwadzan.info,DIRECT
-  - DOMAIN,tw4.hwadzan.info,DIRECT
-  - DOMAIN,tw6.hwadzan.info,DIRECT
-  - DOMAIN,tw8.hwadzan.info,DIRECT
-  - DOMAIN,hk1.hwadzan.info,DIRECT
-  - DOMAIN,hk2.hwadzan.info,DIRECT
-  - DOMAIN,sg1.hwadzan.info,DIRECT
-  - DOMAIN,de1.hwadzan.info,DIRECT
-  - DOMAIN,vod.hwadzan.info,DIRECT
-  - DOMAIN,v.hwadzan.info,DIRECT
-  - DOMAIN,m.amtb.info,DIRECT
-  - DOMAIN,work.hwadzan.org,DIRECT
-  - DOMAIN,hwadzan.tv,DIRECT
-  - DOMAIN,hwadzan.org,DIRECT
-  - DOMAIN,tracker.hwadzan.info,DIRECT
   - DOMAIN,amtb.de,DIRECT
-  - DOMAIN,www.amtb.de,DIRECT
   - DOMAIN,ft.amtb.de,DIRECT
+  - DOMAIN,ftp.amtb.de,DIRECT
   - DOMAIN,player.amtb.de,DIRECT
   - DOMAIN,sg1.amtb.de,DIRECT
-  - DOMAIN,vod.amtb.de,DIRECT
   - DOMAIN,tw1.amtb.de,DIRECT
   - DOMAIN,tw2.amtb.de,DIRECT
   - DOMAIN,tw3.amtb.de,DIRECT
-  - DOMAIN,hk1.amtb.de,DIRECT
-  - DOMAIN,hk2.amtb.de,DIRECT
-  - DOMAIN,ftp.amtb.de,DIRECT
-  - DOMAIN,hwadzan.info,DIRECT
+  - DOMAIN,tw4.amtb.de,DIRECT
+  - DOMAIN,tw5.amtb.de,DIRECT
+  - DOMAIN,tw6.amtb.de,DIRECT
+  - DOMAIN,tw7.amtb.de,DIRECT
+  - DOMAIN,tw8.amtb.de,DIRECT
+  - DOMAIN,www.amtb.de,DIRECT
+  - DOMAIN,amtbapi.amtb.de,DIRECT
+  - DOMAIN,vod.amtb.de,DIRECT
   - DOMAIN,amtbapi.hwadzan.info,DIRECT
+  - DOMAIN,de1.hwadzan.info,DIRECT
+  - DOMAIN,hk1.hwadzan.info,DIRECT
+  - DOMAIN,hk2.hwadzan.info,DIRECT
+  - DOMAIN,hwadzan.info,DIRECT
+  - DOMAIN,hwadzan.org,DIRECT
+  - DOMAIN,hwadzan.tv,DIRECT
+  - DOMAIN,js1.hwadzan.info,DIRECT
+  - DOMAIN,sg1.hwadzan.info,DIRECT
+  - DOMAIN,tw2.hwadzan.info,DIRECT
+  - DOMAIN,tw3.hwadzan.info,DIRECT
+  - DOMAIN,tw4.hwadzan.info,DIRECT
+  - DOMAIN,tw5.hwadzan.info,DIRECT
+  - DOMAIN,tw6.hwadzan.info,DIRECT
+  - DOMAIN,tw7.hwadzan.info,DIRECT
+  - DOMAIN,tw8.hwadzan.info,DIRECT
+  - DOMAIN,v.hwadzan.info,DIRECT
+  - DOMAIN,vod.hwadzan.info,DIRECT
+  - DOMAIN,tracker.hwadzan.info,DIRECT
+  - DOMAIN,work.hwadzan.org,DIRECT
+  - DOMAIN,www.chinkung.org,DIRECT
+  - DOMAIN,www.fashui.org,DIRECT
+  - DOMAIN,www.hwadzan.tv,DIRECT
+  - DOMAIN,www.schoolhd.org,DIRECT
+  - DOMAIN,www.tplys.com,DIRECT
+  - DOMAIN,xuxingmin.com,DIRECT
