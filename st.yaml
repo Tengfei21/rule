@@ -1,0 +1,22 @@
+rules:
+  Proxy
+    - IP-CIDR,198.16.64.10,📺 Dazn
+    - IP-CIDR,198.16.100.90,📺 Dazn
+    - IP-CIDR,198.16.106.58,📺 Dazn
+    - IP-CIDR,198.16.106.62,📺 Dazn
+    - IP-CIDR,198.16.100.186,📺 Dazn
+    - IP-CIDR,50.7.92.106,📺 Dazn
+    - IP-CIDR,50.7.238.114,📺 Dazn
+    - IP-CIDR,50.7.234.10,📺 Dazn
+    - IP-CIDR,50.7.220.170,📺 Dazn
+    - IP-CIDR,50.7.220.74,📺 Dazn
+    - IP-CIDR,67.159.6.34,📺 Dazn
+    - IP-CIDR,66.90.99.154,📺 Dazn
+    - IP-CIDR,198.16.100.0/23,📺 Dazn
+    - IP-CIDR,198.16.64.0/23,📺 Dazn
+    - IP-CIDR,50.7.238.0/23,📺 Dazn
+    - IP-CIDR,50.7.234.0/23,📺 Dazn
+    - IP-CIDR,50.7.220.0/23,📺 Dazn
+    - IP-CIDR,50.7.92.0/22,📺 Dazn
+    - IP-CIDR,67.159.6.0/23,📺 Dazn
+    - IP-CIDR,66.90.99.0/23,📺 Dazn
