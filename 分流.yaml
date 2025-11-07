@@ -50,6 +50,10 @@ rules:
     - IP-CIDR6,188.114.97.6,🎬 Netflix
     - IP-CIDR6,172.67.180.123,🎬 Netflix
     - IP-CIDR6,104.21.83.180,🎬 Netflix
+    - DOMAIN-KEYWORD,-tvbanywhere-us-,🎬 Netflix
+    - DOMAIN-SUFFIX,playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN-KEYWORD,playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN-KEYWORD,amg01868,🎬 Netflix
     - DOMAIN,live2.italkdd.com,🎬 Netflix
     - DOMAIN,live1.italkdd.com,🎬 Netflix
     - DOMAIN,www.italkdd.com,🎬 Netflix
