@@ -1,9 +1,5 @@
 rules:
 Proxy
- - DOMAINDS,live1.hrtn.net,Proxy
- - DOMAIN-KEYWORD,hrtn,Proxy
- - DOMAIN-SUFFIX,hrtn,Proxy
- - DOMAIN,live1.hrtn.net,Proxy
  - DOMAINDS,zhibo.hkstv.tv,Proxy
  - DOMAIN-KEYWORD,hkstv,Proxy
  - DOMAIN-SUFFIX,hkstv.tv,Proxy
