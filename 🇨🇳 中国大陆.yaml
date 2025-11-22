@@ -1,34 +1,18 @@
 rules:
   Proxy
-  - IP-CIDR,183.206.0.0/15,徐州移动 01 | ws
-  - IP-CIDR,183.207.0.0/15,徐州移动 01 | ws
-  - IP-CIDR,223.110.0.0/15,徐州移动 01 | ws
-  - IP-CIDR,223.105.0.0/15,徐州移动 01 | ws
-  - DOMAIN-SUFFIX,mobaibox.com,徐州移动 01 | ws
-  - DOMAIN-SUFFIX,ott.mobaibox.com,徐州移动 01 | ws
-  - DOMAIN-SUFFIX,tptvh.mobaibox.com,徐州移动 01 | ws
-  - DOMAIN,mobaibox.com,徐州移动 01 | ws
-  - DOMAIN,ott.mobaibox.com,徐州移动 01 | ws
-  - DOMAIN-KEYWORD,mobaibox,徐州移动 01 | ws
-  - DOMAIN-KEYWORD,ott.mobaibox,徐州移动 01 | ws
-  - DOMAIN-KEYWORD,tptvh.mobaibox,徐州移动 01 | ws
-  - DOMAIN-KEYWORD,zv6.ott.mobaibox.com,徐州移动 01 | ws
-  - IP-CIDR,183.206.0.0/15,徐州移动 02 | tcp
-  - IP-CIDR,183.207.0.0/15,徐州移动 02 | tcp
-  - IP-CIDR,223.110.0.0/15,徐州移动 02 | tcp
-  - IP-CIDR,223.105.0.0/15,徐州移动 02 | tcp
-  - DOMAIN-SUFFIX,mobaibox.com,徐州移动 02 | tcp
-  - DOMAIN-SUFFIX,ott.mobaibox.com,徐州移动 02 | tcp
-  - DOMAIN-SUFFIX,tptvh.mobaibox.com,徐州移动 02 | tcp
-  - DOMAIN,mobaibox.com,徐州移动 02 | tcp
-  - DOMAIN,ott.mobaibox.com,徐州移动 02 | tcp
-  - DOMAIN-KEYWORD,mobaibox,徐州移动 02 | tcp
-  - DOMAIN-KEYWORD,ott.mobaibox,徐州移动 02 | tcp
-  - DOMAIN-KEYWORD,tptvh.mobaibox,徐州移动 02 | tcp
-  - DOMAIN-KEYWORD,zv6.ott.mobaibox.com,徐州移动 02 | tcp
-  - DOMAINDS,live1.hrtn.net,武汉电信 02 | tcp
-  - DOMAIN-KEYWORD,hrtn,武汉电信 02 | tcp
-  - IP-CIDR,111.48.34.0/24,武汉电信 02 | tcp
-  - DOMAINDS,live1.hrtn.net,武汉电信 01 | ws
-  - DOMAIN-KEYWORD,hrtn,武汉电信 01 | ws
-  - IP-CIDR,111.48.34.0/24,武汉电信 01 | ws 
+  - IP-CIDR,183.206.0.0/15,🇨🇳 中国大陆
+  - IP-CIDR,183.207.0.0/15,🇨🇳 中国大陆
+  - IP-CIDR,223.110.0.0/15,🇨🇳 中国大陆
+  - IP-CIDR,223.105.0.0/15,🇨🇳 中国大陆
+  - DOMAIN-SUFFIX,mobaibox.com,🇨🇳 中国大陆
+  - DOMAIN-SUFFIX,ott.mobaibox.com,🇨🇳 中国大陆
+  - DOMAIN-SUFFIX,tptvh.mobaibox.com,🇨🇳 中国大陆
+  - DOMAIN,mobaibox.com,🇨🇳 中国大陆
+  - DOMAIN,ott.mobaibox.com,🇨🇳 中国大陆
+  - DOMAIN-KEYWORD,mobaibox,🇨🇳 中国大陆
+  - DOMAIN-KEYWORD,ott.mobaibox,🇨🇳 中国大陆
+  - DOMAIN-KEYWORD,tptvh.mobaibox,🇨🇳 中国大陆
+  - DOMAIN-KEYWORD,zv6.ott.mobaibox.com,🇨🇳 中国大陆
+  - DOMAINDS,live1.hrtn.net,🇨🇳 中国大陆
+  - DOMAIN-KEYWORD,hrtn,🇨🇳 中国大陆
+  - IP-CIDR,111.48.34.0/24,🇨🇳 中国大陆
