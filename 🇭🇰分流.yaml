@@ -365,6 +365,9 @@ Proxy
   - DOMAIN-SUFFIX,pccw-live-cdn01.akamaized.net,🎥 Disney+
   - DOMAIN-KEYWORD,eventcdn02-nowe.akamaized.net,🎥 Disney+
   - DOMAIN-SUFFIX,eventcdn02-nowe.akamaized.net,🎥 Disney+
+  - DOMAIN,dko29we9nm1rd.cloudfront.net,🎥 Disney+
+  - DOMAIN-KEYWORD,dko29we9nm1rd.cloudfront.net,🎥 Disney+
+  - DOMAIN-SUFFIX,dko29we9nm1rd.cloudfront.net,🎥 Disney+
   - DOMAIN-KEYWORD,rthk,🎥 Disney+
   - DOMAIN-SUFFIX,rthk,🎥 Disney+
   - DOMAIN-KEYWORD,rthktv,🎥 Disney+
