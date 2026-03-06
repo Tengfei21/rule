@@ -59,6 +59,26 @@ rules:
     - DOMAIN,www.italkdd.com,🎬 Netflix
     - DOMAIN,italkdd.com,🎬 Netflix
     - DOMAIN,live.italkdd.com,🎬 Netflix
+    - DOMAIN-KEYWORD,italkbbtv,🎬 Netflix
+    - DOMAIN-KEYWORD,italkbbtv.com,🎬 Netflix
+    - DOMAIN-KEYWORD,m.italkbbtv.com,🎬 Netflix
+    - DOMAIN-KEYWORD,www.italkbbtv.com,🎬 Netflix
+    - DOMAIN-KEYWORD,api.italkbbtv.com,🎬 Netflix
+    - DOMAIN-KEYWORD,img.italkbbtv.com,🎬 Netflix
+    - DOMAIN-KEYWORD,advertising.italkbbtv.com,🎬 Netflix
+    - DOMAIN,italkbbtv.com,🎬 Netflix
+    - DOMAIN,m.italkbbtv.com,🎬 Netflix
+    - DOMAIN,www.italkbbtv.com,🎬 Netflix
+    - DOMAIN,api.italkbbtv.com,🎬 Netflix
+    - DOMAIN,img.italkbbtv.com,🎬 Netflix
+    - DOMAIN,advertising.italkbbtv.com,🎬 Netflix
+    - DOMAIN-SUFFIX,italkbbtv,🎬 Netflix
+    - DOMAIN-SUFFIX,italkbbtv.com,🎬 Netflix
+    - DOMAIN-SUFFIX,m.italkbbtv.com,🎬 Netflix
+    - DOMAIN-SUFFIX,www.italkbbtv.com,🎬 Netflix
+    - DOMAIN-SUFFIX,api.italkbbtv.com,🎬 Netflix
+    - DOMAIN-SUFFIX,img.italkbbtv.com,🎬 Netflix
+    - DOMAIN-SUFFIX,advertising.italkbbtv.com,🎬 Netflix
     - DOMAIN-KEYWORD,italkdd,🎬 Netflix
     - DOMAIN-KEYWORD,live-s.italkdd.com,🎬 Netflix
     - DOMAIN-KEYWORD,vodob-s.italkdd.com,🎬 Netflix
