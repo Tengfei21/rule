@@ -135,6 +135,7 @@ Proxy
  - DOMAIN-SUFFIX,epg.iptv.cc,Proxy
  - DOMAIN-KEYWORD,www.iptv.cc,Proxy
  - DOMAIN-KEYWORD,iptv.cc,Proxy
+ - DOMAIN-KEYWORD,dbankcdn,Proxy
  - DOMAIN-KEYWORD,epg.iptv.cc,Proxy
  - DOMAIN,php.17186.eu.org,Proxy
  - DOMAINDS,php.17186.eu.org,Proxy
