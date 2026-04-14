@@ -136,6 +136,55 @@ Proxy
  - DOMAIN-KEYWORD,www.iptv.cc,Proxy
  - DOMAIN-KEYWORD,iptv.cc,Proxy
  - DOMAIN-KEYWORD,dbankcdn,Proxy
+ - DOMAIN-KEYWORD,hicloud,Proxy
+ - DOMAIN-KEYWORD,petalmaps,Proxy
+ - DOMAIN-KEYWORD,dbank,Proxy
+ - DOMAIN-KEYWORD,hwcloudtest,Proxy
+ - DOMAIN-KEYWORD,dbankcloud,Proxy
+ - DOMAIN-KEYWORD,agconnect,Proxy
+ - DOMAIN-KEYWORD,dbankedge,Proxy
+ - DOMAIN-KEYWORD,hwtelcloud,Proxy
+ - DOMAIN-KEYWORD,petalmail,Proxy
+ - DOMAIN-KEYWORD,agcstorage,Proxy
+ - DOMAIN-KEYWORD,chaspark,Proxy
+ - DOMAIN-KEYWORD,onkadid3g7xtc,Proxy
+ - DOMAIN-KEYWORD,3odboymvqugnc,Proxy
+ - DOMAIN-KEYWORD,powerapp,Proxy
+ - DOMAIN-KEYWORD,huaweicloudwaf,Proxy
+ - DOMAIN-KEYWORD,hwcloudsite,Proxy
+ - DOMAIN-KEYWORD,petalkidscode,Proxy
+ - DOMAIN-KEYWORD,huaweisre,Proxy
+ - DOMAIN-KEYWORD,huaweicloudapis,Proxy
+ - DOMAIN-KEYWORD,huaweicloudsite,Proxy
+ - DOMAIN-KEYWORD,hc-cdn,Proxy
+ - DOMAIN-KEYWORD,huaweisafedns,Proxy
+ - DOMAIN-KEYWORD,huaweicloud-dns,Proxy
+ - DOMAIN-KEYWORD,hwclouds-dns,Proxy
+ - DOMAIN-KEYWORD,apifabric,Proxy
+ - DOMAIN-KEYWORD,huaweiita,Proxy
+ - DOMAIN-KEYWORD,vrbtcloud,Proxy
+ - DOMAIN-KEYWORD,hwad,Proxy
+ - DOMAIN-KEYWORD,aicccloud,Proxy
+ - DOMAIN-KEYWORD,huaweirtc,Proxy
+ - DOMAIN-KEYWORD,besclouds,Proxy
+ - DOMAIN-KEYWORD,bescloud,Proxy
+ - DOMAIN-KEYWORD,cdnhwc1,Proxy
+ - DOMAIN-KEYWORD,bcdcloud,Proxy
+ - DOMAIN-KEYWORD,cdnhwc3,Proxy
+ - DOMAIN-KEYWORD,cdnhwc2,Proxy
+ - DOMAIN-KEYWORD,myhuaweicloud,Proxy
+ - DOMAIN-KEYWORD,myhwclouds,Proxy
+ - DOMAIN-KEYWORD,huaweicloud,Proxy
+ - DOMAIN-KEYWORD,hwclouds,Proxy
+ - DOMAIN-KEYWORD,huaweiapi,Proxy
+ - DOMAIN-KEYWORD,hwpan,Proxy
+ - DOMAIN-KEYWORD,hihonor,Proxy
+ - DOMAIN-KEYWORD,vrbt,Proxy
+ - DOMAIN-KEYWORD,vmall,Proxy
+ - DOMAIN-KEYWORD,honor,Proxy
+ - DOMAIN-KEYWORD,tiantiango,Proxy
+ - DOMAIN-KEYWORD,huaweishop,Proxy
+ - DOMAIN-KEYWORD,hwreader,Proxy
  - DOMAIN-KEYWORD,epg.iptv.cc,Proxy
  - DOMAIN,php.17186.eu.org,Proxy
  - DOMAINDS,php.17186.eu.org,Proxy
