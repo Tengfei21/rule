@@ -8,6 +8,12 @@ rules:
     - IP-CIDR,50.7.92.106/32,📺 Dazn
     - IP-CIDR,50.7.238.114/32,📺 Dazn
     - IP-CIDR,50.7.158.194/32,📺 Dazn
+    - DOMAIN,linear-abematv.akamaized.net,📺 Dazn
+    - DOMAIN,cdn-apne1.tsv2.amagi.tv,📺 Dazn
+    - DOMAIN,cdn-uw2-prod.tsv2.amagi.tv,📺 Dazn
+    - DOMAIN,rch01e-alive-hls.akamaized.net,📺 Dazn
+    - DOMAIN,d1flvb4iqlercm.cloudfront.net,📺 Dazn
+    - DOMAIN,ads.its-newid.net,📺 Dazn
     - IP-CIDR,50.7.234.10/32,📺 Dazn
     - IP-CIDR,50.7.220.170/32,📺 Dazn
     - IP-CIDR,50.7.220.74/32,📺 Dazn
