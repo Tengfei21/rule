@@ -11,6 +11,32 @@ rules:
     - DOMAIN-SUFFIX,d134uf9oicyuah.cloudfront.net,🎬 Netflix
     - DOMAIN-SUFFIX,d34phq2iz6wvjc.cloudfront.net,🎬 Netflix
     - DOMAIN-SUFFIX,d2nnjsokeogp9k.cloudfront.net,🎬 Netflix
+    - DOMAIN,dai.google.com,🎬 Netflix
+    - DOMAIN,pixel-config.reddit.com,🎬 Netflix
+    - DOMAIN,cdn.cookielaw.org,🎬 Netflix
+    - DOMAIN,geolocation.onetrust.com,🎬 Netflix
+    - DOMAIN,sync.springserve.com,🎬 Netflix
+    - DOMAIN,tv.springserve.com,🎬 Netflix
+    - DOMAIN,ara.paa-reporting-advertising.amazon,🎬 Netflix
+    - DOMAIN,ut.pubmatic.com,🎬 Netflix
+    - DOMAIN,c.amazon-adsystem.com,🎬 Netflix
+    - DOMAIN-SUFFIX,zeam.com,🎬 Netflix
+    - DOMAIN,zeam-graphql-api.aws.syncbak.com,🎬 Netflix
+    - DOMAIN,zeam-playlist.aws.syncbak.com,🎬 Netflix
+    - DOMAIN,dyywvl37rgjgd.cloudfront.net,🎬 Netflix
+    - DOMAIN,ddrl65sbcpv8a.cloudfront.net,🎬 Netflix
+    - DOMAIN,d27wx7ytq78mow.cloudfront.net,🎬 Netflix
+    - DOMAIN-SUFFIX,cbsivideo.com,🎬 Netflix
+    - DOMAIN,clientinfo.cbsivideo.com,🎬 Netflix
+    - DOMAIN,chicad94bd07.airspace-cdn.cbsivideo.com,🎬 Netflix
+    - DOMAIN,pittsda654d7.airspace-cdn.cbsivideo.com,🎬 Netflix
+    - DOMAIN,poolcc29631d.airspace-cdn.cbsivideo.com,🎬 Netflix
+    - DOMAIN,livec0a3575.airspace-cdn.cbsivideo.com,🎬 Netflix
+    - DOMAIN,dopplg510egh.airspace-c.cbsivideo.com,🎬 Netflix
+    - DOMAIN,dopplg510egh-h3.airspace-a.cbsivideo.com,🎬 Netflix
+    - DOMAIN,doppler-config.cbsivideo.com,🎬 Netflix
+    - DOMAIN,doppler-beacon.cbsivideo.com,🎬 Netflix
+    - DOMAIN,dopplg510egh.airspace-e.cbsivideo.com,🎬 Netflix
     - DOMAIN-SUFFIX,tubitv.com,🎬 Netflix
     - DOMAIN-SUFFIX,aegis-cloudfront.tubi.video,🎬 Netflix
     - DOMAIN-SUFFIX,tubi.video,🎬 Netflix
