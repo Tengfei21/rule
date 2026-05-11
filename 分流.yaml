@@ -23,6 +23,7 @@ rules:
     - DOMAIN-SUFFIX,zeam.com,🎬 Netflix
     - DOMAIN,zeam-graphql-api.aws.syncbak.com,🎬 Netflix
     - DOMAIN,zeam-playlist.aws.syncbak.com,🎬 Netflix
+    - DOMAIN,d10bt0812qicot.cloudfront.net,🎬 Netflix
     - DOMAIN,dyywvl37rgjgd.cloudfront.net,🎬 Netflix
     - DOMAIN,ddrl65sbcpv8a.cloudfront.net,🎬 Netflix
     - DOMAIN,d27wx7ytq78mow.cloudfront.net,🎬 Netflix
