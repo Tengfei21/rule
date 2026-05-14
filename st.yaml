@@ -8,7 +8,19 @@ rules:
     - IP-CIDR,50.7.92.106/32,📺 Dazn
     - IP-CIDR,50.7.238.114/32,📺 Dazn
     - IP-CIDR,50.7.158.194/32,📺 Dazn
+    - DOMAIN-SUFFIX,fastv.jp,📺 Dazn
+    - DOMAIN-SUFFIX,ne.jp,📺 Dazn
+    - DOMAIN-SUFFIX,radiko.jp,📺 Dazn
     - DOMAIN,livetv.fastv.jp,📺 Dazn
+    - DOMAIN,radiko.jp,📺 Dazn
+    - DOMAIN,api.radiko.jp,📺 Dazn
+    - DOMAIN,lsi-f-radiko.smartstream.ne.jp,📺 Dazn
+    - DOMAIN,linear-abematv.akamaized.net,📺 Dazn
+    - DOMAIN,cdn-apne1.tsv2.amagi.tv,📺 Dazn
+    - DOMAIN,cdn-uw2-prod.tsv2.amagi.tv,📺 Dazn
+    - DOMAIN,rch01e-alive-hls.akamaized.net,📺 Dazn
+    - DOMAIN,d1flvb4iqlercm.cloudfront.net,📺 Dazn
+    - DOMAIN,ads.its-newid.net,📺 Dazn
     - DOMAIN,linear-abematv.akamaized.net,📺 Dazn
     - DOMAIN,cdn-apne1.tsv2.amagi.tv,📺 Dazn
     - DOMAIN,cdn-uw2-prod.tsv2.amagi.tv,📺 Dazn
