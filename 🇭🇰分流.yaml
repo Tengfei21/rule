@@ -102,7 +102,7 @@ Proxy
   - DOMAIN-SUFFIX,h2.hkdvb.com,🎥 Disney+
   - DOMAIN-SUFFIX,hkdvb.com,🎥 Disney+
   - DOMAIN-KEYWORD,hkdvb,🎥 Disney+
-  - DOMAIN-KEYWORD,hkdvb.com,🎥 Disney+  
+  - DOMAIN-KEYWORD,hkdvb.com,🎥 Disney+
   - DOMAIN-KEYWORD,vod.hkdvb.com,🎥 Disney+
   - DOMAIN-KEYWORD,live.hkdvb.com,🎥 Disney+
   - DOMAIN,tvfree.sbs,🎥 Disney+
@@ -115,7 +115,7 @@ Proxy
   - DOMAIN-SUFFIX,cdn.tvfree.sbs,🎥 Disney+
   - DOMAIN-SUFFIX,h2.tvfree.sbs,🎥 Disney+
   - DOMAIN-SUFFIX,tvfree.sbs,🎥 Disney+
-  - DOMAIN-KEYWORD,tvfree.sbs,🎥 Disney+  
+  - DOMAIN-KEYWORD,tvfree.sbs,🎥 Disney+
   - DOMAIN-KEYWORD,vod.tvfree.sbs,🎥 Disney+
   - DOMAIN-KEYWORD,live.tvfree.sbs,🎥 Disney+
   - DOMAIN,ndex.docker.io,🎥 Disney+
@@ -313,6 +313,9 @@ Proxy
   - DOMAIN,nowtv.now.com,🎥 Disney+
   - DOMAIN-KEYWORD,nowtv.now.com,🎥 Disney+
   - DOMAIN-SUFFIX,nowtv.now.com,🎥 Disney+
+  - DOMAIN,pccw-live-cdn-01.akamaized.net,🎥 Disney+
+  - DOMAIN-SUFFIX,pccw-live-cdn-01.akamaized.net,🎥 Disney+
+  - DOMAIN-KEYWORD,pccw-live-cdn-01.akamaized.net,🎥 Disney+
   - DOMAIN,i-cablecomm.com,🎥 Disney+
   - DOMAIN,hoytv-live-stream.hoy.tv,🎥 Disney+
   - DOMAIN-KEYWORD,hoytv-live-stream.hoy.tv,🎥 Disney+
@@ -327,7 +330,7 @@ Proxy
   - DOMAIN,rthkradiocnrhk-live.akamaized.net,🎥 Disney+
   - DOMAIN,rthkradiopth-live.akamaized.net,🎥 Disney+
   - DOMAIN,rthkradio1-live.akamaized.net,🎥 Disney+
-  - DOMAIN,rthkradio2-live.akamaized.net,🎥 Disney+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+  - DOMAIN,rthkradio2-live.akamaized.net,🎥 Disney+
   - DOMAIN,rthkradio3-live.akamaized.net,🎥 Disney+
   - DOMAIN,rthkradio4-live.akamaized.net,🎥 Disney+
   - DOMAIN,rthkradio5-live.akamaized.net,🎥 Disney+
@@ -341,7 +344,7 @@ Proxy
   - DOMAIN-KEYWORD,rthkradiocnrhk-live.akamaized.net,🎥 Disney+
   - DOMAIN-KEYWORD,rthkradiopth-live.akamaized.net,🎥 Disney+
   - DOMAIN-KEYWORD,rthkradio1-live.akamaized.net,🎥 Disney+
-  - DOMAIN-KEYWORD,rthkradio2-live.akamaized.net,🎥 Disney+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+  - DOMAIN-KEYWORD,rthkradio2-live.akamaized.net,🎥 Disney+
   - DOMAIN-KEYWORD,rthkradio3-live.akamaized.net,🎥 Disney+
   - DOMAIN-KEYWORD,rthkradio4-live.akamaized.net,🎥 Disney+
   - DOMAIN-KEYWORD,rthkradio5-live.akamaized.net,🎥 Disney+
@@ -355,7 +358,7 @@ Proxy
   - DOMAIN-SUFFIX,rthkradiocnrhk-live.akamaized.net,🎥 Disney+
   - DOMAIN-SUFFIX,rthkradiopth-live.akamaized.net,🎥 Disney+
   - DOMAIN-SUFFIX,rthkradio1-live.akamaized.net,🎥 Disney+
-  - DOMAIN-SUFFIX,rthkradio2-live.akamaized.net,🎥 Disney+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+  - DOMAIN-SUFFIX,rthkradio2-live.akamaized.net,🎥 Disney+
   - DOMAIN-SUFFIX,rthkradio3-live.akamaized.net,🎥 Disney+
   - DOMAIN-SUFFIX,rthkradio4-live.akamaized.net,🎥 Disney+
   - DOMAIN-SUFFIX,rthkradio5-live.akamaized.net,🎥 Disney+
@@ -378,13 +381,10 @@ Proxy
   - DOMAIN-SUFFIX,hoy,🎥 Disney+
   - DOMAIN-SUFFIX,hoy.tv,🎥 Disney+
   - DOMAIN-KEYWORD,hoy.tv,🎥 Disney+
-  - DOMAIN-KEYWORD,hoy,🎥 Disney+   
+  - DOMAIN-KEYWORD,hoy,🎥 Disney+
   - DOMAIN-SUFFIX,hoytv-live-stream.hoy.tv,🎥 Disney+
   - DOMAIN-KEYWORD,hoytv-live-stream.hoy.tv,🎥 Disney+
   - DOMAIN,hoytv-live-stream.hoy.tv,🎥 Disney+
   - DOMAIN,gvt1.com,🎥 Disney+
   - DOMAIN,r2---sn-oguelney.gvt1.com,🎥 Disney+
   - DOMAIN,r3---sn-oguesn6y.gvt1.com,🎥 Disney+
-
-
-
