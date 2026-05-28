@@ -8,6 +8,8 @@ rules:
     - DOMAIN-SUFFIX,c5ca4726.wurl.com,🎬 Netflix
     - DOMAIN-SUFFIX,nfl.com,🎬 Netflix
     - DOMAIN-SUFFIX,amagi.tv,🎬 Netflix
+    - DOMAIN-SUFFIX,wcetv.com,🎬 Netflix
+    - DOMAIN-SUFFIX,aiv-cdn.net,🎬 Netflix
     - DOMAIN-SUFFIX,d134uf9oicyuah.cloudfront.net,🎬 Netflix
     - DOMAIN-SUFFIX,d34phq2iz6wvjc.cloudfront.net,🎬 Netflix
     - DOMAIN-SUFFIX,d2nnjsokeogp9k.cloudfront.net,🎬 Netflix
