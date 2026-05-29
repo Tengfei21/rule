@@ -15,6 +15,7 @@ rules:
     - DOMAIN,radiko.jp,📺 Dazn
     - DOMAIN,api.radiko.jp,📺 Dazn
     - DOMAIN,ngtv-live-cbj.gcdn.co,📺 Dazn
+    - DOMAIN,fi.touch-u.fun,📺 Dazn
     - DOMAIN,unifi-live2.secureswiftcontent.com,,📺 Dazn
     - DOMAIN-KEYWORD,gcdn,📺 Dazn
     - DOMAIN,lsi-f-radiko.smartstream.ne.jp,📺 Dazn
