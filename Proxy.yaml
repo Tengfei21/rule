@@ -12,6 +12,13 @@ Proxy
  - DOMAIN-SUFFIX,4gtvfree-mozai.4gtv.tv,Proxy
  - DOMAIN-SUFFIX,ntd-tgc.cdn.hinet.net,Proxy
  - DOMAIN-SUFFIX,api2.4gtv.tv,Proxy
+ - DOMAIN-SUFFIX,catchplay.com,Proxy
+ - DOMAIN-KEYWORD,catchplay,Proxy
+ - DOMAIN,www.catchplay.com,Proxy
+ - DOMAIN,hp2-api.catchplay.com,Proxy
+ - DOMAIN,vcmsapi.catchplay.com,Proxy
+ - DOMAIN-SUFFIX,catchplay.com,Proxy
+ - DOMAIN-KEYWORD,catchplay,Proxy
  - DOMAIN,ofissaifreepc.akamaized.net,Proxy
  - DOMAIN,litvpc-hichannel.cdn.hinet.net,Proxy
  - DOMAIN,4gtvfree-cds.cdn.hinet.net,Proxy
