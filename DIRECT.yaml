@@ -4,6 +4,7 @@ DIRECT
   - DOMAIN-KEYWORD,speedtest.net,DIRECT
   - DOMAIN-KEYWORD,speedtest.im,DIRECT
   - DOMAIN-KEYWORD,speed.do,DIRECT
+  - DOMAIN,httpbin.org,DIRECT
   - DOMAIN-SUFFIX,wurl.com,DIRECT
   - DOMAIN-SUFFIX,jmp2.uk,DIRECT
   - DOMAIN,itv.mytvsuper.xyz,DIRECT
