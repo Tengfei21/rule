@@ -14,6 +14,7 @@ Proxy
  - DOMAIN-SUFFIX,api2.4gtv.tv,Proxy
  - DOMAIN-SUFFIX,catchplay.com,Proxy
  - DOMAIN-KEYWORD,catchplay,Proxy
+ - DOMAIN,verify.koyeb.app,Proxy
  - DOMAIN,www.catchplay.com,Proxy
  - DOMAIN,hp2-api.catchplay.com,Proxy
  - DOMAIN,vcmsapi.catchplay.com,Proxy
