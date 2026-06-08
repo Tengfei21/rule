@@ -14,7 +14,9 @@ rules:
     - DOMAIN,livetv.fastv.jp,📺 Dazn
     - DOMAIN,radiko.jp,📺 Dazn
     - DOMAIN,api.radiko.jp,📺 Dazn
+    - DOMAIN,ngtv-live-cbj.akamaized.net,📺 Dazn
     - DOMAIN,ngtv-live-cbj.gcdn.co,📺 Dazn
+    - DOMAIN-KEYWORD,ngtv-live-cbj,📺 Dazn
     - DOMAIN-KEYWORD,touch-u,📺 Dazn
     - DOMAIN-SUFFIX,touch-u.fun,📺 Dazn
     - DOMAIN,fi.touch-u.fun,📺 Dazn
