@@ -10,6 +10,9 @@ rules:
     - DOMAIN-SUFFIX,amagi.tv,🎬 Netflix
     - DOMAIN-SUFFIX,wcetv.com,🎬 Netflix
     - DOMAIN-SUFFIX,aiv-cdn.net,🎬 Netflix
+    - DOMAIN-SUFFIX,cdn.peacocktv.com,🎬 Netflix
+    - DOMAIN-SUFFIX,peacocktv.com,🎬 Netflix
+    - DOMAIN-KEYWORD,peacocktv,🎬 Netflix
     - DOMAIN-SUFFIX,d134uf9oicyuah.cloudfront.net,🎬 Netflix
     - DOMAIN-SUFFIX,d34phq2iz6wvjc.cloudfront.net,🎬 Netflix
     - DOMAIN-SUFFIX,d2nnjsokeogp9k.cloudfront.net,🎬 Netflix
