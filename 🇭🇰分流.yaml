@@ -276,6 +276,15 @@ Proxy
   - DOMAIN-SUFFIX,nowtv.hk,🎥 Disney+
   - DOMAIN-SUFFIX,tvb.com,🎥 Disney+
   - DOMAIN-KEYWORD,tvb.com,🎥 Disney+
+  - DOMAIN,prd-vcache.edge-global.akamai.tvb.com,🎥 Disney+
+  - DOMAIN,ads.cdn.tvb.com,🎥 Disney+
+  - DOMAIN,inews-api.tvb.com,🎥 Disney+
+  - DOMAIN-SUFFIX,prd-vcache.edge-global.akamai.tvb.com,🎥 Disney+
+  - DOMAIN-SUFFIX,ads.cdn.tvb.com,🎥 Disney+
+  - DOMAIN-SUFFIX,inews-api.tvb.com,🎥 Disney+
+  - DOMAIN-KEYWORD,prd-vcache.edge-global.akamai.tvb.com,🎥 Disney+
+  - DOMAIN-KEYWORD,ads.cdn.tvb.com,🎥 Disney+
+  - DOMAIN-KEYWORD,inews-api.tvb.com,🎥 Disney+
   - DOMAIN,e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com,🎥 Disney+
   - DOMAIN,edge.media.seaovers.live,🎥 Disney+
   - DOMAIN,distrib.noisypeak.com,🎥 Disney+
