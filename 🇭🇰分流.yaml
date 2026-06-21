@@ -321,8 +321,11 @@ Proxy
   - DOMAIN-KEYWORD,fwp.nowe.com,🎥 Disney+
   - DOMAIN,pccw-live-cdn-01.akamaized.net,🎥 Disney+
   - DOMAIN,pccw-live-cdn-viutv.akamaized.net,🎥 Disney+
+  - DOMAIN,dvelej3sjvq25.cloudfront.net,🎥 Disney+
   - DOMAIN,193582-ct.accelerationcdn.com,🎥 Disney+
   - DOMAIN-SUFFIX,193582-ct.accelerationcdn.com,🎥 Disney+
+  - DOMAIN-SUFFIX,dvelej3sjvq25.cloudfront.net,🎥 Disney+
+  - DOMAIN-KEYWORD,dvelej3sjvq25.cloudfront.net,🎥 Disney+
   - DOMAIN-SUFFIX,pccw-live-cdn-viutv.akamaized.net,🎥 Disney+
   - DOMAIN-SUFFIX,pccw-live-cdn-01.akamaized.net,🎥 Disney+
   - DOMAIN-KEYWORD,pccw-live-cdn-01.akamaized.net,🎥 Disney+
