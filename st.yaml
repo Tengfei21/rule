@@ -13,6 +13,18 @@ rules:
     - DOMAIN-SUFFIX,radiko.jp,📺 Dazn
     - DOMAIN,livetv.fastv.jp,📺 Dazn
     - DOMAIN,radiko.jp,📺 Dazn
+    - DOMAIN,akariko.netgenx.site,📺 Dazn
+    - DOMAIN,cdn-apne1.tsv2.amagi.tv,📺 Dazn
+    - DOMAIN,cdn-uw2-prod.tsv2.amagi.tv📺 Dazn
+    - DOMAIN,livetv.fastv.jp,📺 Dazn
+    - DOMAIN,live.livingjtv.liv,📺 Dazn
+    - IP-CIDR,58.82.168.138/32,📺 Dazn
+    - DOMAIN,cdns.jp-primehome.com,📺 Dazn
+    - DOMAIN,media-tyo.hls.nhkworld.jp📺 Dazn
+    - DOMAIN,stream3.shopch.jp,📺 Dazn
+    - DOMAIN,d1flvb4iqlercm.cloudfront.net📺 Dazn
+    - DOMAIN,rch01e-alive-hls.akamaized.net📺 Dazn
+    - DOMAIN,ads.its-newid.net📺 Dazn
     - DOMAIN,api.radiko.jp,📺 Dazn
     - DOMAIN,ngtv-live-cbj.akamaized.net,📺 Dazn
     - DOMAIN,ngtv-live-cbj.gcdn.co,📺 Dazn
