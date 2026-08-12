@@ -48,6 +48,11 @@ Proxy
   - DOMAIN,live-edge-05.stream-link.org,🎥 Disney+
   - DOMAIN,live-edge-06.stream-link.org,🎥 Disney+
   - DOMAIN,live-edge-07.stream-link.org,🎥 Disney+
+  - DOMAIN-SUFFIX,cmishow.com,🎥 Disney+
+  - DOMAIN-SUFFIX,cdn.hk.chinamobile.com,🎥 Disney+
+  - DOMAIN,epg.zsdc.eu.org,🎥 Disney+
+  - DOMAIN-SUFFIX,jsdelivr.net,🎥 Disney+
+  - DOMAIN-SUFFIX,utvlive.top,🎥 Disney+
   - DOMAIN,mail.stream-link.org,🎥 Disney+
   - DOMAIN,smtp.stream-link.org,🎥 Disney+
   - DOMAIN,pop.stream-link.org,🎥 Disney+
