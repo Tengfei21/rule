@@ -53,6 +53,9 @@ Proxy
   - DOMAIN,epg.zsdc.eu.org,🎥 Disney+
   - DOMAIN-SUFFIX,jsdelivr.net,🎥 Disney+
   - DOMAIN-SUFFIX,utvlive.top,🎥 Disney+
+  - DOMAIN,gslb.cdn.hk.chinamobile.com,🎥 Disney+
+  - DOMAIN,pic-hwcdn.utvlive.top,🎥 Disney+
+  - DOMAIN,m-epg.cmishow.com,🎥 Disney+
   - DOMAIN,mail.stream-link.org,🎥 Disney+
   - DOMAIN,smtp.stream-link.org,🎥 Disney+
   - DOMAIN,pop.stream-link.org,🎥 Disney+
