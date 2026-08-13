@@ -74,6 +74,32 @@ rules:
     - DOMAIN-KEYWORD,usiptv.esnad.dpdns.org,🎬 Netflix
     - DOMAIN-KEYWORD,usiptv.esnad,🎬 Netflix
     - DOMAIN-SUFFIX,usiptv.esnad,🎬 Netflix
+    - DOMAIN,amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg01868-amg01868c2-tvbanywhere-us-4490.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg01868-amg01868c7-tvbanywhere-us-4495.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg01868-amg01868c4-tvbanywhere-us-4492.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg01868-amg01868c6-tvbanywhere-us-4494.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg01868-tvb-amg01868c1-telus-ca-4182.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg01868-tvb-amg01868c1-plex-us-1579.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg00378-maverickenterta-mavtvselectdomestic-telus-dlj3n.amagi.tv,🎬 Netflix
+    - DOMAIN,amg00711-zylo-amg00711c4-telus-ca-3832.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg00711-zylo-amg00711c8-telus-ca-3687.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg02873-amg02873c1-telus-ca-3841.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg00145-amg00145c3-telus-ca-4569.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg00145-amg00145c2-telus-ca-4570.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg00145-amg00145c15-telus-ca-4555.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg00145-amg00145c16-telus-ca-4563.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg01796-amg01796c11-telus-ca-4564.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg00514-amg00514c3-telus-ca-4749.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg00857-amg00857c1-telus-ca-4804.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg01796-amg01796c4-telus-ca-4579.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg00145-amg00145c12-telus-ca-4554.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg00145-amg00145c14-telus-ca-4568.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,amg00514-amg00514c1-telus-ca-4748.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,cdn-uw2-prod.tsv2.amagi.tv,🎬 Netflix
+    - DOMAIN,amg01868-tvb-amg01868c1-tvbanywhere-us-1782.playouts.now.amagi.tv,🎬 Netflix
+    - DOMAIN,tvbanywherena.com,🎬 Netflix
     - IP-CIDR6,2a06:98c1:3121::3,🎬 Netflix
     - IP-CIDR6,2a06:98c1:3120::3,🎬 Netflix
     - IP-CIDR6,2606:4700:3030::ac43:b47b,🎬 Netflix
